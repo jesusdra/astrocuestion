@@ -1,0 +1,1052 @@
+{
+    "title": "Convocatoria de Técnico SUP Gestion Tributaria ",
+    "type": "_diputacion",
+    "shuffle": false,
+    "questions": [
+        {
+            "question": "1. Según la Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, el Presidente de la Diputación puede delegar:",
+            "options": [
+                {
+                    "text": "a) El ejercicio de determinadas atribuciones en los miembros de la Junta de Gobiemo, sin perjuicio de las delegaciones especiales que para cometidos específicos pueda realizar a favor de cualesquiera Diputados, aunque no perteneciera a la Junta de Gobierno.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) El ejercicio de determinadas atribuciones en los miembros de la Junta de Gobiemo, sin perjuicio de las delegaciones especiales que para cometidos especificos pueda realizar a favor de cualesquiera Diputados, siempre que perteneciera a la Junta de Gobierno. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) El ejercicio de determinadas atribuciones en los miembros del Pleno, sin perjuicio de las delegaciones especiales que para cometidos específicos pueda realizar a favor de cualesquiera Diputados, aunque no perteneciera al Pleno.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "2. Señala la respuesta incorrecta. De acuerdo con el articulo 63 del Real Decreto 2568/1986, de 28 de noviembre, por el que se aprueba el Reglamento de Organización, Funcionamiento y Régimen Jurídico de las Entidades Locales, las delegaciones especiales que el Presidente de la Diputación Provincial podrá efectuar en cualquier Diputado relativas a un determinado servicio:",
+            "options": [
+                {
+                    "text": "a) Incluirá la facultad de resolver mediante actos administrativos que afecten a terceros.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) Comprenderá la dirección interna y la gestión de los servicios correspondientes.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) No incluirá la facultad de resolver mediante actos administrativos que afecten a terceros.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "3. El artículo 65 de la Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local establece que cuando la Administración del Estado o de las Comunidades Autónomas considere, en el ámbito de las respectivas competencias, que un acto o acuerdo de alguna Entidad local infringe ef ordenamiento jurídico, podrá requerirla, invocando expresamente dicho artículo:",
+            "options": [
+                {
+                    "text": "a) Para que anule dicho acto en el plazo máximo de 20 días. El requerimiento deberá ser motivado y expresar la normativa que se estime vulnerada, formulándose en el plazo de quince días hábiles a partir de la recepción de la comunicación del acuerdo.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "b) Para que anule dicho acto en el plazo máximo de un mes. El requerimiento deberá ser motivado y expresar la normativa que se estime vulnerada, formulándose en el plazo de quince días hábiles a partir de la recepción de la comunicación del acuerdo.",
+                    "isCorrect": true,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Para que anule dicho acto en el plazo máximo de un mes. El requerimiento deberá ser motivado y expresar la normativa que se estime vulnerada, formulándose en el plazo de quince días naturales a partir de la recepción de la comunicación del acuerdo.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "4. Para asegurar la colaboración entre la Administración del Estado y la Administración Local en materia de inversiones y de prestación de servicios, el Gobierno podrá crear en cada Comunidad Autónoma según lo previsto en el artículo 58 de la Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local:",
+            "options": [
+                {
+                    "text": "a) Una Comisión Territorial de Garantías de la Autonomía Local",
+                    "isCorrect": false
+                },
+                {
+                    "text": "b) Una Comisión Sectorial para Asuntos Locales",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Una Comisión Territorial de Administración Local",
+                    "isCorrect": true,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "5. Según el Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales, los estados de gastos de los presupuestos generales de las entidades locales aplicarán las clasificaciones por programas y económica de acuerdo con los siguientes criterios:",
+            "options": [
+                {
+                    "text": "a) La clasificación económica constará de tres niveles, el primero relativo al artículo, el segundo al capítulo y el tercero al concepto.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "b) La clasificacion por programas que constará de los siguientes niveles: el primero relativo al área de política de gasto, el segundo al área de gasto, el tercero a los grupos de programas, que se subdividirán en programas.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) La clasificación por programas que constará de los siguientes niveles: el primero relativo al área de gasto, el segundo a la política de gasto, el tercero a los grupos de programas, que se subdividirán en programas.",
+                    "isCorrect": true,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "6. En relación con el presupuesto general de la Entidad Local, de acuerdo con lo establecido en el artículo 171 del Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales, señala la respuesta correcta:",
+            "options": [
+                {
+                    "text": "a) Contra la aprobación: definitiva del presupuesto podrá interponerse directamente recurso contencioso-administrativo, en la forma y plazos que establecen las normas de dicha jurisdicción.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) La interposición de recursos suspenderá por sí sola la aplicación del presupuesto definitivamente aprobado por la corporación.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Contra la aprobación definitiva del presupuesto podrá interponerse directamente recurso potestativo.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "7. El Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público establece que los procedimientos de selección de personal laboral serán públicos, y:",
+            "options": [
+                {
+                    "text": "a) Se regirán en todo ca&o por los principios de igualdad, mérito y capacidad. En el caso del personal labora! temporal se regirá igualmente por el principio de celeridad.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) Se regirán en todo caso por los principios de igualdad, mérito y capacidad. En el caso del personal laboral por tiempo indefinido se regirá igualmente por el principio de celeridad.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "C) Se regirán en todo caso por los principios de mérito, capacidad e idoneidad. En el caso del personal laboral temporal no se regirá por el principio de celeridad.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "8. En relación con los funtionarios interinos, de acuerdo con el Real Decreto Legislativo 5/2015, de 30 de octubre, se producirá el fin de la relación de interinidad: ",
+            "options": [
+                {
+                    "text": "a) Transcurridos tres años desde el nombramiento del personal funcionario interino y la vacante solo podrá ser ocupada por personal laboral fijo, salvo que el correspondiente proceso selectivo quede desierto, en cuyo caso se podrá efectuar otro nombramiento de personal funcionario interino.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "b) Transcurridos tres años desde el nombramiento del personal funcionario interino y la vacante solo podrá ser ocupada por personal funcionario de carrera, salvo que el correspondiente proceso selectivo quede desierto, en cuyo caso se podrá efectuar otro nombramiento de personal funcionario interino.",
+                    "isCorrect": true,
+                    "hint": ""
+                },
+                {
+                    "text": "C) Transcurridos cuatro años desde el nombramiento del personal funcionario interino y la vacante solo podrá ser acupada por personal laboral indefinido, salvo que el correspondiente proceso selectivo quede desierto, en cuyo caso se podrá efectuar otro nombramiento de personal funcionario interino.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "9. De acuerdo con la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales, corresponde a la inspección de Trabajo y Seguridad Social la función de la vigilancia y control de la normativa sobre prevención de riesgos laborales. En cumplimiento de esta misión, tendrá la siguiente función:",
+            "options": [
+                {
+                    "text": "a) Asesorar y formar a las empresas y a los trabajadores autónomos sobre la manera más efectiva de cumplir las disposiciones cuya vigilancia tiene encomendada.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "b) Ordenar la paralización inmediata de trabajos cuando, a juicio del Delegado de Prevención, se advierta la existencia de riesgo grave e inminente para la seguridad o salud de los trabajadores ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Elaborar los informes solicitados por los Juzgados de lo Social en las demandas deducidas ante los mismos en los procedimientos de accidentes de trabajo y enfermedades profesionales",
+                    "isCorrect": true,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "10. Según lo previsto en el artículo 17 de la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales, ¿Cuándo el empresario debe proporcionar a sus trabajadores equipos de protección individual?",
+            "options": [
+                {
+                    "text": "a) El empresario deberá proporcionar a sus trabajadores equipos de protección individual adecuados para el desempeño de sus funciones y velar por el uso efectivo de los mismos cuando, por la naturaleza de los trabajos realizados, sean necesarios.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) El empresario deberá proporcionar a sus trabajadores equipos de protección individual adecuados para el desempeño de sus funciones y velar por el uso efectivo de los mismos cuando, por la peligrosidad de las actividades realizadas, sean necesarios.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "C) El empresario deberá proporcionar a sus trabajadores equipos de protección individual adecuados para el desempeño de sus funciones y velar por el uso efectivo de los mismos cuando, por las características de los puestos de trabajo y de los trabajadores que deban desempeñarlos, sean necesarios.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "11. La Ley 8/2011, de 23 de marzo, de Iguaidad entre Mujeres y Hombres y contra la Violencia de Género en Extremadura establece que el Presupuesto de la Comunidad Autónoma de Extremadura será un elemento activo en la consecución de forma efectiva del objetivo de la igualdad entre mujeres y hombres; a tal fin:",
+            "options": [
+                {
+                    "text": "a) La Comisión de Igualdad de Género de los Presupuestos, emitirá el informe de evaluación de impacto de género sobre el proyecto de Ley del Presupuesto.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "b) La Comisión de Evaluación de Género de los Presupuestos, emitirá el informe de evaluación de impacto de género sobre el proyecto de Ley del Presupuesto.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) La Comisión de Impacto de Género de los Presupuestos, emitirá el informe de evaluación de impacto de género sobre el anteproyecto de Ley del Presupuesto. ",
+                    "isCorrect": true,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "12. A efectos de acceder a los derechos de las mujeres en situaciones de violencia de género a la atención integral y efectiva establecidos en la Ley 8/2011, de 23 de marzo, de Igualdad entre Mujeres y Hombres y contra la Violencia de Género en Extremadura, constituyen medios de prueba calificados para la identificación de las situaciones de violencia de género: ",
+            "options": [
+                {
+                    "text": "a) La sentencia de cualquier orden jurisdiccional, siempre que haya ganado firmeza, que declare que la mujer sufre alguna de las formas de esta violencia.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "b) El informe del Servicio Extremeño de Salud, en función de la información recibida de los diferentes dispositivos que constituyen la Red de Atención a las Víctimas de la Violencia de Género.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) La orden de protección vigente.",
+                    "isCorrect": true,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "13.- Respecto a la lengua de los procedimientos, la Ley 39/2015, de 1 de octubre, dispone que los tramitados por la Administración General del Estado será el castellano. No obstante, los interesados que se dirijan a los órganos de la Administración General del Estado con sede en el territorio de una Comunidad Autónoma podran utilizar también la lengua que sea cooficial en ella. En este caso:",
+            "options": [
+                {
+                    "text": "a) Si concurrieran varios interesados en el procedimiento, y existiera discrepancia en cuanto a la lengua, el procedimiento:se tramitará en castellano, si bien los documentos o testimonios que requieran los interesados se expedirán según lo previsto en la legislación autonómica correspondiente.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "b) Si concurrieran varios interesados en el procedimiento, y existiera discrepancia en cuanto a la lengua, el procedimiento se tramitará en la lengua elegida por los mismos, si bien los documentos o testimonios que requieran los interesados se expedirán en castellano.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Si concurrieran varios interesados en el procedimiento, y existiera discrepancia en cuanto a la lengua, el procedimiento se tramitará en castellano, si bien los documentos o testimonios que requieran los interesados se expedirán en la lengua elegida por los mismos.",
+                    "isCorrect": true,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "14.- En los procedimientas iniciados a solicitud del interesado, la Ley 39/2015, de 1 de octubre, señala que los actos administrativos producidos por silencio administrativo producen efectos desde el vencimiento del plazo máximo en el que debe dictarse y notificarse la resolución expresa sin que la misma se haya expedido, y su existencia puede ser acreditada por cualquier medio de prueba admitido en Derecho, incluido el certificado acreditativo del silencio producido. Este certificado:",
+            "options": [
+                {
+                    "text": "a) Se expedirá de oficio por el órgano competente para resolver en el plazo de quince dias desde que expire el plazo máximo para resolver el procedimiento.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) Se expedirá de oficio por el órgano competente para resolver en el plazo de diez días desde que expire el plazo máximo para resolver el procedimiento.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "C) Se expedirá de oficio por el órgano competente para instruir el procedimiento en el plazo de veinte días desde que expire el plazo máximo para resolver el procedimiento.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "15.- Según el artículo 40 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, a los solos efectos de entender cumplida la obligación de notificar dentro del plazo máximo de duración de los procedimientos, será suficiente la notificación que contenga, cuando menos:",
+            "options": [
+                {
+                    "text": "a) El texto íntegro de la resolución, así como el intento de notificación debidamente acreditado. ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) El texto integro de la resolución, así como la expresión de los recursos que procedan.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) El texto íntegro de la resolución, con indicación de si pone fin o no a la vía administrativa, la expresión de los recursos que procedan, en su caso, en vía administrativa y judicial, sin perjuicio de que los interesados puedan ejercitar, en su caso, cualquier otro que estimen procedente.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "16.- Las resoluciones y actos a que se refiere el artículo 112.1 de la Ley 39/2015, de 1 de octubre, cuando no pongan fin a la vía administrativa, podrán ser recurridos en alzada ante el órgano superior jerárquico del que los dictó. En este sentido, el recurso podrá interponerse ante el órgano que dictó el acto que se impugna o ante el competente para resolverto y si:",
+            "options": [
+                {
+                    "text": "a) Si el recurso se hubiera interpuesto ante el órgano que dictó el acto impugnado, éste deberá remitirlo al competente en el plazo de diez días, con su informe y con una copia completa y ordenada del expediente.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) Si el recurso se hubiera interpuesto ante el órgano que dictó el acto impugnado, éste deberá remitirlo al competente en el plazo de un mes, con su informe y con una copia completa y ordenada del expediente.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Si el recurso se hubiera interpuesto ante el órgano que dictó el acto impugnado, éste deberá remitirlo al competente en el plazo de tres meses, con su informe y con una copia completa y ordenada del expediente.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "17.- Respecto a los órganos consultivos, la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público establece que la Administración consultiva podrá articularse mediante órganos específicos dotados de autonomía orgánica y funcional con respecto a la Administración activa, o a través de los servicios de esta última que prestan asistencia jurídica. En tal caso, dichos servicios:",
+            "options": [
+                {
+                    "text": "a) No podrán estar sujetos a dependencia jerárquica, ya sea orgánica o funcional, ni recibir instrucciones, directrices o cualquier clase de indicación de los órganos que hayan elaborado las disposiciones o producido los actos objeto de consulta, actuando para cumplir con tales garantías de forma colegiada.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) Podrán estar sujetos a dependencia jerárquica, ya sea orgánica o funcional, y podrán recibir instrucciones, directrices o cualquier clase de indicación de los órganos que hayan elaborado las disposiciones o producido los actos objeto de consulta, actuando para cumplir con tales garantías de forma colegiada.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "C) Podrán estar sujetos a dependencia jerárquica orgánica, sin poder recibir en ningún caso instrucciones, directrices o cualquier clase de indicación de los órganos que hayan elaborado las disposiciones o producido los actos objeto de consulta, actuando para cumplir con tales garantias de forma colegiada.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "18.- Entre las materias que deberá incluir los convenios, el articulo 49 de la Ley 40/2015, de 1 de octubre, de Régimen Juridico del Sector Público, señala el plazo de vigencia del convenio teniendo en cuenta que los convenios deberán tener una duración determinada:",
+            "options": [
+                {
+                    "text": "a) Que no podrá ser siperior a cinco años, salvo que normativamente se prevea un plazo superior. En cualquier momento antes de la finalización del plazo previsto, los firmantes del convenio podrán acordar unanimemente su prórroga por un periodo de hasta cuatro afios adicionales o su extinción.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "b) Que no podrá ser superior a cuatro años, salvo que normativamente se prevea un plazo superior. En cualquier momento antes de la finalización del plazo previsto, los firmantes del convenio podrán acordat unánimemente su prórroga por un periodo de hasta cuatro años adicionales o su extinción.",
+                    "isCorrect": true,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Que no podrá ser superior a cuatro años, salvo que normativamente se prevea un plazo superior. En cualquier momento después de la finalización del plazo previsto, los firmantes del convenio podrán acordar unánimemente su prórroga por un periodo de hasta tres años adicionales o su extinción:",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "19.- Según el articulo 55 del Real Decreto 203/2021, de 30 de marzo, por el que se aprueba el Reglamento de actuación y funcionamiento del sector publico por medios electrónicos, en el archivo electrónico único:de la Administración General del Estado serán accesibles todos los documentos y expedientes electránicos del sector público estatal:",
+            "options": [
+                {
+                    "text": "a) Una vez finalizados los procedimientos y en los plazos determinados por la Comisión Superior Calificadora de Documentos Administrativos de acuerdo con lo que se desarrolle reglamentariamente.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) Una vez finalizados los:procedimientos y en los plazos determinados por el Consejo Evaluador de Documentos Administrativos de acuerdo con lo que se desarrolle reglamentariamente. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Una vez tramitados los procedimientos y en los plazos determinados por la Comisión Superior de Administración electrónica de acuerdo con lo que se desarrolle reglamentariamente.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "20.- Conforme al Real Decreto 203/2021, de 30 de marzo, los documentos presentados por el interesado en soporte papel que por cualquier circunstancia no le puedan ser devueltos en el momento de su presentación, una vez digitalizados serán conservados a su disposición para que pueda recogerlos, independientemente del procedimiento administrativo al que se incorporen o de la Administración Pública a que vayan dirigidos. El tiempo de conservación será:",
+            "options": [
+                {
+                    "text": "a) Durante seis meses, salvo que reglamentariamente la Administración correspondiente establezca un plazo mayor.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) Durante dos meses, salvo que reglamentariamente la Administración correspondiente establezca un plazo mayor.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Durante un año, salvo que reglamentariamente la Administración correspondiente establezca un plazo mayor,",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "21.- En el procedimiento de contratacién, conforme a la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, en los casos en que el órgano de contratación haya acordado la exigencia de garantía provisional, en los pliegos de cláusulas administrativas particulares se determinará el importe de la misma:",
+            "options": [
+                {
+                    "text": "a) Que no podrá ser superior a un 5 por 100 del presupuesto base de licitación del contrato, incluido el Impuesto sobre el Valor Añadido y el régimen de su devolución.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "b) Que no podrá ser superior a un 3 por 100 del presupuesto base de licitación del contrato, excluido el Impuesto sobre el Valor Añadido y el régimen de su devolución.",
+                    "isCorrect": true,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Que no podrá ser superior a un 3 por 100 del presupuesto base de licitación del contrato, incluido el Impuesto sobre el Valor Añadido y el régimen de su devolución.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "22.- De acuerdo con el articulo 116 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, al expediente de contratación se incorporarán el pliego de cláusulas administrativas particulares y el de prescripciones técnicas que hayan de regir el contrato. En el caso de que:",
+            "options": [
+                {
+                    "text": "a) En el caso de procedimientos para adjudicar los contratos basados en acuerdos marco invitando a una nueva licitación a las empresas parte del mismo, los pliegos de cláusulas administrativas y de prescripciones técnicas serán sustituidos por el documento descriptivo a que hace referencia el articulo 174 de dicha Ley 9/2017.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "b) En el caso de procedimientos para adiudicar los contratos basados en acuerdos marco invitando a una nueva licitación a las empresas parte del mismo, los pliegos de cláusulas administrativas y de prescripciones técnicas serán sustituidos por e! documento de licitacion a que hace referencia el articulo 221.5 de dicha Ley 9/2017. ",
+                    "isCorrect": true,
+                    "hint": ""
+                },
+                {
+                    "text": "c) En el caso de que el procedimiento elegido para adjudicar el contrato sea el de diálogo competitivo, los pliegos de cláusulas administrativas y de prescripciones técnicas serán sustituides por el documento de licitación a que hace referencia el artículo 221.5 de dicha Ley 9/2017.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "23.- Los órganos de contratación podrán acordar la utilización de un procedimiento abierto simplificado en los contratos de obras, suministro y servicios cuando se cumplan las dos condiciones que define el artículo 159 de la Ley 9/2017, de 8 de noviembre. Una de estas condiciones en el caso del contrato de obras es:",
+            "options": [
+                {
+                    "text": "a) Que su valor estimado sea igual o inferior a 2.000.000 de euros.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) Que su valor estimado sea igual o superior a 2.000.000 de euros.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Que su valor estimado sea inferior a 1.000.000 de euros.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "24.- En los procedimientos de adjudicación, abierto o restringido, celebrados por los órganos de las Administraciones Públicas, la valoración de los criterios cuya cuantificación dependa de un juicio de valor corresponderá, en los casos en que proceda por tener atribuida una ponderación mayor que la correspondiente a los criterios evaluables de forma automática:",
+            "options": [
+                {
+                    "text": "a) A un comité formado por experios con cualificación apropiada, que cuente con un mínimo de dos miembros, que deberán pertenecer a los servicios dependientes del órgano de contratación, pero en ningún caso podrán estar adscritos al órgano proponente del contrato, al que corresponderá realizar la evaluación de las ofertas.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "b) A un comité formado por expertos sin cualificación especial, que cuente con un mínimo de tres miembros, que deberán pertenecer a los servicios dependientes del órgano de contratación y estar adscritos al órgano proponente del contrato, al que corresponderá realizar la evaluación de las ofertas.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) A un organismo témío& especializado, debidamente identificado en los pliegos. ",
+                    "isCorrect": true,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "25.- De conformidad con ¿l Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales (TRLRHL) art. 9.1, en relación con los posibles beneficios fiscales, señala la correcta:",
+            "options": [
+                {
+                    "text": "a) «1. No podrán reconocerse otros beneficios fiscales en los tributos locales que los expresamente previstos en las normas con rango de ley y los derivados de la aplicación de los tratados internacionales.'",
+                    "isCorrect": false
+                },
+                {
+                    "text": "b) «1. No podrán reconocerse otros beneficios fiscales en los tributos locales que los expresamente previstos en las normas con rango de ley ofy los derivados de la aplicación de los tratados internacionales.'",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) «1. No podrán reconocerse otros beneficios fiscales en los tributos locales que los expresamente previstos en las normas con rango de ley o los derivados de la aplicación de los tratados internacionales.'",
+                    "isCorrect": true,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "26.- De conformidad con el art. 62 del Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales (TRLRHL) estarán exentos del Impuesto sobre bienes inmuebles:",
+            "options": [
+                {
+                    "text": "a) Los que sean propiedad del Estado, de las comunidades autónomas o de las entidades locales que estén directamente afectos a la seguridad ciudadana y a los servicios educativos y penitenciarios, así como los del Estado afectos a la defensa nacional.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) Los que no sean propiedad del Estado, ni de las comunidades autónomas ni de las entidades locales pero que estén directamente afectos a la seguridad ciudadana y a los servicios educativos y penitenciarios, así como tampoco los del Estado afectos a la defensa nacional.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Todos los que sean propiedad del Estado, de las comunidades autónomas o de las entidades locales , así como los del Estado.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "27.- Según el art 78. del Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales (TRLRHL) 2. Se consideran, a los efectos de este impuesto, actividades empresariales las ganaderas, cuando tengan carácter independiente, A efectos de lo previsto en el párrafo anterior, tendrá la consideración de ganadería independiente el conjunto de cabezas de ganado que se encuentre comprendido en alguno de los casos siguientes:",
+            "options": [
+                {
+                    "text": "a) Que no paste o no se alimente fundamentalmente en tierras que no sean explotadas agricola o forestalmente por el dueño del ganado.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "b) Que paste o se alimente fundamentalmente en tierras que no sean explotadas agrícola o forestalmente por el dueño del ganado.",
+                    "isCorrect": true,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Que paste y se alimente fundamentalmente en tierras que no sean explotadas agricola o forestalmente por el dueño del ganado.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "28.- Están exentos del Impuesto de Actividades Económicas, los siguientes sujetos pasivos:",
+            "options": [
+                {
+                    "text": "a) Solamente las personas físicas que sean residentes en territorio español.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "b) Solamente las personas fisicas que sean no residentes en territorio español.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Las personas fisicas, sean o no residentes en territorio español.",
+                    "isCorrect": true,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "29.- Los impuestos locales obligatorios y directos son desarrollados por las respectivas ordenanzas fiscales, de acuerdo con un intervalo de tarifas en función del tamaño del Ayuntamiento y de las necesidades municipales. Los impuestos locales obligatorios y directos son los siguientes:",
+            "options": [
+                {
+                    "text": "a) Impuesto sobre Bienes nmuebles(IBI); Impuesto sobre Actividades Económicas (IAE) y el Impuesto sobre Vehículos de Tracción Mecánica ( 1VTM). ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) Las tasa locales, las contribuciones especiales y los recargos locales. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) El Impuesto sobre Canstrucciones e Instalaciones y Obras ( !CIO) y el Impuesto sobre el Incremento del Valor de lds Terrenos de Naturaleza Urbana ( IIVTNU).",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "30.- Para la exigencia de las contribuciones especiales será precisa la adopción de un acuerdo expreso para su ordenación, en el cual se determine, de acuerdo con las normas fijadas en el Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales lo siguiente:",
+            "options": [
+                {
+                    "text": "a) El coste previsto de las obras o servicios; El importe que será financiado con contribuciones especiales y los Criterios de reparto entre los beneficiarios.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "b) El coste previsto de las obras o servicios; El importe que será financiado con contribuciones especiales y los Sujetos pasivos del tributo.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) El coste previsto de las obras o servicios. El importe que será financiado con contribuciones especiales. Los Criterios de reparto entre los beneficiarios y los Sujetos pasivos del tributo.",
+                    "isCorrect": true,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "31.- A los efectos del Real Decreto Legislativo 1175/1990, de 28 de septiembre , por el que se aprueban las tarifas y la instrucción del Impuesto de Actividades económicas , de conformidad con la Regla 9.2 Las cuotas contenidas en las Tarifas se clasifican en:",
+            "options": [
+                {
+                    "text": "a) Cuotas municipales, Cuotas minimas provinciales, y Cuotas nacionales.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "b) Cuotas mínimas municipales, Cuotas provinciales, y Cuotas nacionales.",
+                    "isCorrect": true,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Cuotas municipales, Cuotas provinciales, y Cuotas minimas nacionales.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "32.- A los efectos del Real Decreto Legislativo 1175/1980, de 28 de septiembre , por el que se aprueban las tarifas y la instrucción del Impuesto de Actividades económicas, de conformidad con la Regla 5.. El lugar de realización de las actividades profesionales será:",
+            "options": [
+                {
+                    "text": "a) Cuando las actividades se ejerzan en local determinado, el término municipal en ei que dicho local radique, y cuando la:actividad no se realice en local determinado, el término municipal en el que tenga su domicilio fiscal el sujeto pasivo.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) Cuando las actividades se ejerzan en local determinado, el término municipal en el que tenga su domicilio fiscal el sujeto pasivo.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Cuando la actividad no se realice en local determinado, el término municipal en ef que no tenga su domicilio fiscal el sujeto pasivo.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "33.- Los impuestos locales voluntarios son desarrollados por las respectivas ordenanzas fiscales, de acuerdo con un intervalo de tarifas en función del tamaño del Ayuntamiento y de las necesidades municipales. Los impuestos locales voluntarios son los siguientes:",
+            "options": [
+                {
+                    "text": "a) El Impuesto sobre Contrucciones, Instalaciones y Obras ( ICIO). El Impuesto sobre el Incremento del Valor de los Terrenos de Naturaleza Urbana( IIVTNU) y el impuesto Municipal sobre Gastos Suntuarios( IGS).",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) El Impuesto sobre Contrucciones, Instalaciones y Obras ( ICIO). El Impuesto sobre el incremento del Valor de los Terrenos de Naturaleza Urbana( IIVTNU) y el Impuesto sobre Bienes nmuebles(1B1).",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) El Impuesto sobre Contrucciones, Instalaciones y Obras ( ICIO). Impuesto sobre Bienes inmuebles(IBi) y el Impuesto Municipal sobre Gastos Suntuarios( IGS)",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "34. En virtud del art. 92 del Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales, NO están sujetos al Impuesto sobre Vehículos de Tracción Mecánica:",
+            "options": [
+                {
+                    "text": "a) Los vehículos que, no habiendo sido dados de baja en los Registros por antigiiedad de su modelo, puedan ser autorizados para circular excepcionalmente con ocasión de exhibiciones, certámenes o carreras limitadas a los de esta naturaleza ",
+                    "isCorrect": false
+                },
+                {
+                    "text": "b) Los remolques y semirremolques arrastrados por vehículos de tracción mecánica cuya carga útil sea superior a 750 kilogramos.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Ninguna de las respuestas anteriores es correcta.",
+                    "isCorrect": true,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "35. En virtud del art. 100 del Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales, está exenta del pago del Impuesto sobre Construcciones, Instalaciones y Obras la realización de cualquier...",
+            "options": [
+                {
+                    "text": "a) Construcción, instalación u obra de la que sea dueño el Estado, las comunidades autónomas o las entidades locales, que estando sujeta al impuesto, vaya a ser directamente destinada a carreteras, ferrocarriles, puertos, aeropuertos, obras hidráulicas, saneamiento de poblaciones y de sus aguas residuales, aunque su gestión se lleve a cabo por organismos autónomos, tanto si se trata de obras de inversión nueva como de conservación",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) Construcción, instalación u obra de la que sea dueño el Estado, las comunidades autónomas o las entidades locales, que estando sujeta al impuesto, vaya a ser directamente destinada a carreteras, ferrocarriles, puertos, aeropuertos, obras hidráulicas, saneamiento de poblaciones y de sus aguas residuales, aunque su gestión se lleve a cabo por los ayuntamientos correspondientes, $olo si se trata de obras de inversión nueva.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Construcción, instalación u obra de la que sea dueño el Estado, las comunidades autónomas o las entidades locales, que estando sujeta al impuesto, vaya a ser directamente destinada a carreteras, ferrocarriles, puertos, aeropuertos, obras hidráulicas, saneamiento de poblaciones y de sus aguas residuales, aumque su gestión se lleve a cabo por los ayuntamientos correspondientes, tanto si se trata de obras de inversión nueva como de conservación",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "36. En virtud del art. 108 del Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales, la cuota líquida del Impuesto sobre el Incremento de Valor de los Terrenos de Naturaleza Urbana es ",
+            "options": [
+                {
+                    "text": "a) el incremento del valdr de los terrenos puesto de manifiesto en el momento del devengo y experimentado a lo largo de un periodo máximo de veinte años.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "b} el resultado de aplicar isobre la cuota íntegra, en su caso, las bonificaciones a que se refieren los apartados siguientes.",
+                    "isCorrect": true,
+                    "hint": ""
+                },
+                {
+                    "text": "C) el resultado de aplicar a la base imponible el tipo de gravamen.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "37. Atendiendo al art. 19 del Real Decreto 951/2005, de 29 de julio, por el que se establece el marco genera! para la méjora de la calidad en la Administración General del Estado, las quejas formuladas conforme a lo previsto en este real decreto no tendrán:",
+            "options": [
+                {
+                    "text": "a) En ningún caso, la calificación de recurso administrativo ni su presentación interrumpirá los plazos establecidos en la normativa vigente.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) En ningún caso, la calificación de recurso potestativo, pero presentación interrumpirá los plazos establecidos en la normativa vigente.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "En niíngún caso, la calificación de recurso administrativo, pero su presentación interrumpirá los plazos establecidos en la hormativa vigente.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "38. Atendiendo al art. 16 del Real Decreto 951/2005, de 29 de julio, por el que se establece el marco general para la mejora de la calidad en la Administración General del Estado, Recibida la queja o sugerencia, la unidad a la que se refiere el artículo 14 informará al interesado de las actuaciones realizadas en el plazo de:",
+            "options": [
+                {
+                    "text": "a) 15 días hábiles.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "b) 10 días hábiles.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) 20 días hábiles.",
+                    "isCorrect": true,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "39. En virtud del art. 27 del Real Decreto 951/2005, de 29 de julio, por el que se establece el marco general para la mejora de la calidad en la Administración General del Estado, en cuanto a la recogida y análisis de datos:",
+            "options": [
+                {
+                    "text": "a) El Observatorio de la Calidad de los Servicios Públicos utilizará los datos procedentes de las evaluaciones de la satisfacción de los usuarios a que se refiere el capítulo I.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "b) El Observatorio de la Calidad de los Servicios Públicos incluirá, también, datos de la percepción ciudadana sobre los servicios públicos; para ello, el Ministerio de Administraciones Públicas encargará la realización de estudios de opinión en la materia. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Todas las respuestas anteriores son correctas.",
+                    "isCorrect": true,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "40. En virtud del art. 28 del Real Decreto 951/2005, de 29 de julio, por el que se establece el marco general para la mejora de la calidad en la Administración General del Estado, el Observatorio de la Calidad de los Servicios Públicos informará periódicamente del nivel de calidad con el que se presian los servicios públicos...",
+            "options": [
+                {
+                    "text": "a) En todo caso, semestralmente presentará y difundirá públicamente un informe de evaluación global del conjunto de los servicios públicos analizados, ",
+                    "isCorrect": false
+                },
+                {
+                    "text": "b) En todo caso, anualmente presentará y difundirá públicamente un informe de evaluación global del conjunto de los servicios públicos analizados.",
+                    "isCorrect": true,
+                    "hint": ""
+                },
+                {
+                    "text": "c) En todo caso, trimestralmente presentará y difundirá públicamente un informe de evaluación global del conjunto de los servicios públicos analizados.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "41. Según el art. 22 de la Ley 27/2022, de 20 de diciembre, de institucionalización de la evaluación de políticas públicas en la Administración General del Estado, el Informe Final de Evaluación será publicado, en el portal temático de evaluación de políticas públicas, en el plazo de:",
+            "options": [
+                {
+                    "text": "a) Un mes desde su recepción.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) Dos meses desde su recepción.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Tres meses desde su recepción.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "42. Según el art. 23 de la Ley 27/2022, de 20 de diciembre, de institucionalización de la evaluación de políticas públicas en la Administración General del Estado, ¿quién será la encargada de realizar el seguimientc de los resultados de las evaluaciones desarrolladas en su ministerio, en coordinacion con la Agencia Estatal de Evaluación de Políticas Públicas?",
+            "options": [
+                {
+                    "text": "a) El Consejo General de Evaluación de políticas públicas.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "b) La Unidad de Coordinación de Evaluación de políticas públicas.",
+                    "isCorrect": true,
+                    "hint": ""
+                },
+                {
+                    "text": "c) La Comisión Superior de Evaluación de politicas públicas.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "43. Señala la respuesta incorrecta. Una de las diferentes formas de usar el Modelo EFQM 2020 es:",
+            "options": [
+                {
+                    "text": "a)Detectar y responder al impacto de la disrupción del mercado.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "b)Construir capacidades organizativas para la mejora.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "e)Calificar la capacidad y encaje de los partners e inversores y reguladores.",
+                    "isCorrect": true,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "44. La estructura del Modelo EFQM 2020 se basa en una lógica sencilla pero muy poderosa y que responde a tres cuestiones, entre las que se encuentra: ",
+            "options": [
+                {
+                    "text": "a)¿'Por qué' existe la organización? ¿Qué' propósito cumple? ¿'Por qué' esta estrategia concreta? (Dirección)",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b)¿'Cómo' tiene la intención de cumplir con su propósito y estrategia? (Dirección)",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "C)¿'Cómo' tiene la intención de cumplir con sus resultados? (Ejecución)",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "45, El criterio 1 'Propósito, visión y estrategia del Modelo EFQM 2020 establece que una organización sobresaliente se caracteriza por tener un propósito que inspira, una visión ambiciosa y una estrategia que genera resultados. Respecto al propósito de la organización:",
+            "options": [
+                {
+                    "text": "a)Describe lo que trata de'alcanzar en el largo plazo.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "b)Establece las bases para crear y proporcionar valor a sus grupos de interés.",
+                    "isCorrect": true,
+                    "hint": ""
+                },
+                {
+                    "text": "c)Sirve de guía clara para elegir las líneas de actuación actuales y futuras.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "46. En el bloque de Dirección del Modelo EFQM 2020 se aplicará la metodología REDER, la cuál estará formada por el atributo:",
+            "options": [
+                {
+                    "text": "ay'Alineado', atributo correspondiente al elemento 'Enfoque'",
+                    "isCorrect": false
+                },
+                {
+                    "text": "b)'Flexible', atributo correspondiente al elemento 'Despliegue'",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "cy'Analizado y comprendido', atributo correspondiente al elemento 'Evaluación, Revisión y Mejora'.",
+                    "isCorrect": true,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "47. Las organizaciones que se presentan a un reconocimiento EFQM y son evaluadas con el Modelo EFQM, reciben una puntuación sobre 1.000 puntos. Los 1.000 puntos se distribuyen entre los siete criterios del Modelo EFQM 2020, asignando:",
+            "options": [
+                {
+                    "text": "a) 100 puntos al Criterio 'Crear Valor Sostenible'",
+                    "isCorrect": false
+                },
+                {
+                    "text": "b) 100 puntos al Criterio 'Rendimiento Estratégico y Operativo'",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) 200 puntos al Criterio 'Percepción de los Grupos de Interés'",
+                    "isCorrect": true,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "48. Respecto al Sello EFQM, es correcto:",
+            "options": [
+                {
+                    "text": "a)Conseguir un reconocimiento con el Sello EFQM, implica haber pasado por un proceso de autoevaluación que brinda a una organización una excelente oportunidad para conocer su nivel de rendimiento y mejora.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "b)Cuando una organización recibe un Sello EFQM, recibirá una certificación internacional otorgada por el Club Excelencia en Gestión. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c)Los beneficios que aporta el Sello EFQM a la organización y sus grupos de interés son Prestigio; Confianza; Competitividad; Aprendizaje; Compromiso.",
+                    "isCorrect": true,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "49. La Guía metodológica para la elaboración de las Cartas de Servicios de la Diputación de Badajoz viene a determinar que las Cartas de Servicios se actualizarán con carácter general:",
+            "options": [
+                {
+                    "text": "a) Cada año.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "5) Cada tres años.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Cada dos años.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "50. El Test de Calidad CYKLOS está diseñado sobre la base del Ciclo PDCA y está divido en cuatro ejes, referidos cada uno de ellos a las diferentes siglas que conforman dicho ciclo, que significan:",
+            "options": [
+                {
+                    "text": "a) Planificar, desplegar o desarrollar, controlar y revisar",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) Planificar, ejercitar, controlar y aprender",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Programar, desplegar o desamollar, controlar y actuar",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "1. En relación con las competencias de las Entidades Locales, el artículo 7 de la Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, establece que:",
+            "options": [
+                {
+                    "text": "a) El Estado y las Comunidades Autónomas, en el ejercicio de sus respectivas competencias, podrán delegar en las Entidades Locales el ejercicio de sus competencias.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) Las Entidades Locales|podran ejercer competencias distintas de las propias y de las atribuidas por delegación aunque se incurra en un supuesto de ejecución simultánea del mismo servicio público con otra Administración Pública.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Las competencias propias se ejercen en régimen de autonomía y bajo la propia responsabilidad, sin atender a la coordinación en su programación y ejecución con las demás Administraciones Públicas.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "2.- Cuando la notificación por medios electrónicos sea de carácter obligatorio, o haya sido expresamente elegida por el interesado, de acuerdo con la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, se entenderá rechazada cuando hayan transcurrido:",
+            "options": [
+                {
+                    "text": "a) Diez días hábiles desde la puesta a disposición de la notificación sin que se acceda a su contenido.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "b) Diez dias naturales desde la puesta a disposición de la notificación sin que se acceda a su contenido.",
+                    "isCorrect": true,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Quince días desde la puesta a disposición de la notificación sin que se acceda a su contenido",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "3.- Las bonificaciones apficables a la cuota del IAE previstas en el Real Decreto Legisiativo 2/2004, de 5 de marzo, for el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales (TRLRHL) se clasifican en obligatorias y potestativas. Así la bonificación del 95% de la cuota tributaria y el recargo provincial que deban abonar las cooperativas, así como las uniones, federaciones y' confederaciones de las mismas y las sociedades agrarias de transformación, es obligatoria, y este beneficio se aplica a las cuotas:",
+            "options": [
+                {
+                    "text": "a) Cuotas municipales,y nácionales.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "b) Cuotas provinciales y nacionales.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Cuotas municipales, provinciales y nacionales.",
+                    "isCorrect": true,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "4, En virtud del art. 96 del Real Decreto Legistativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales, ¿Cuál de las siguientes afirmaciones es correcta respecto al periodo impositivo y devengo del Impuesto sobre Vehículos de Tracción Mecánica?:",
+            "options": [
+                {
+                    "text": "a) El importe de la cuota del impuesto se prorrateará por bimestres naturales en los casos de primera adquisición o baja definitiva del vehículo.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "b) El impuesto se devenga el último día del periodo impositivo.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) El período impositivo coincide con el año natural, salvo en el caso de primera adquisición de los vehículos.",
+                    "isCorrect": true,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "5. De acuerdo con el criterio 5 'Gestionar el funcionamiento y la transformación' del Modelo EFQM, una organización sobresaliente debe:",
+            "options": [
+                {
+                    "text": "a) Impulsar la innovación y aprovechar la tecnología.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) Estimular la creatividad y la innovación.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Crear las condiciones para hacer realidad el cambio.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        }
+    ]
+}
