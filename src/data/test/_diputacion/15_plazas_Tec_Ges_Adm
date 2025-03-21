@@ -1,0 +1,2097 @@
+{
+    "title": "Convocatoria de 15 plazas de Técnico/a Gestión Administrativa ",
+    "type": "_diputacion",
+    "shuffle": false,
+    "questions": [
+        {
+            "question": "1.- La Constitución española se fundamenta en la:",
+            "options": [
+                {
+                    "text": "indisoluble unidad de la Nación española, patria común e indivisible de todos los españoles",
+                    "isCorrect": true
+                },
+                {
+                    "text": "indisoluble unidad de la Nación española, patria común y divisible de todos los españoles.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "disoluble unidad de la Nación española, patria común e indivisible de todas los españoles.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "2.- Según la Constitución española:",
+            "options": [
+                {
+                    "text": "a) El castellano es la lengua española oficial del Estado. Todos los españoles tienen únicamente el derecho a usarla.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "b) Las demás lenguas españolas serán también oficiales en las respectivas Comunidades Autónomas de acuerdo con la Constitución",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "C) La riqueza de las distintas modalidades lingúísticas de España es un patrimonio cultural que será objeto de especial respeto y protección.",
+                    "isCorrect": true,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "3.- De acuerdo con la Constitución española:",
+            "options": [
+                {
+                    "text": "a) Los Estatutos podrán reconocer banderas y enseñas propias de las Comunidades Autónomas. Estas no se utilizarán junto a la bandera de España en sus edificios públicos y en sus actos oficiales.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "b) La capital del Estado es la ciudad de Madrid.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Los partidos políticos expresan el pluralismo político.",
+                    "isCorrect": true,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "4.- En relación con los derechos fundamentales previstos en la Constitución:",
+            "options": [
+                {
+                    "text": "a) Se garantiza la libertad ideológica, religiosa y de culto de los individuos y las comunidades con limitación en sus manifestaciones.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "b) Se garantiza la libertad ideologica, religiosa y de culto de los individuos sin más limitación, en sus manifestaciones, que la necesaria para el mantenimiento del orden público protegido por la ley",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Se garantiza la libertad ideológica, religiosa y de culto de los individuos y las comunidades sin más limitacién, en sus manifestaciones, que la necesaria para el mantenimiento del orden público protegido por la ley",
+                    "isCorrect": true,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "5.- En relación con el derecho a la libertad:",
+            "options": [
+                {
+                    "text": "a) La detención preventiva no podrá durar más del tiempo estrictamente necesario para la realización de las averiguaciones tendentes al esclarecimiento de los hechos, y, en todo caso en ochenta y dos horas, el detenido deberá ser puesto en libertad o a disposición de la autoridad judicial.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "b) Toda persona detenida debe ser informada de forma inmediata, y de modo que le sea comprensible, de sus derechos y de las razones de su detención pudiendo ser obligada a declarar ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) La ley regulará un procedimiento de «habeas corpus».",
+                    "isCorrect": true,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "6.- Según la Ley Orgánica 1/2011, de 28 de enero, de reforma del Estatuto de Autonomía de la Comunidad Autónoma de Extremadura:",
+            "options": [
+                {
+                    "text": "a) La bandera extremeña está formada por tres franjas horizontales iguales, negra la superior, blanca la central y verde la inferior",
+                    "isCorrect": false
+                },
+                {
+                    "text": "b) Ostentan la condición política de extremeños los ciudadanos españoles que, de acuerdo con las leyes generales del Estado, tengan vecindad administrativa en cualquiera de los municipios de Extremadura.",
+                    "isCorrect": true,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Las comunidades extremeñas asentadas fuera de Extremadura, con arreglo a lo establecido en la ley, podrán solicitar el reconocimiento de la identidad extremeña, entendida como el derecho a colaborar y compartir la vida social y cultural del pueblo extremeño implicando la concesión de derechos políticos.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "7.- La Comunidad Autónoma de Extremadura respecto a las competencias de desarrollo normativo y ejecución:",
+            "options": [
+                {
+                    "text": "a) En estas materias, corresponde a la Comunidad Autónoma desarrollar, ejecutar y, en su caso, complementar la normativa del Estado, mediante la legislación propia de desarrollo, la potestad reglamentaria y la función ejecutiva.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) No tiene competencias de desarrollo normativo y ejecución en régimen jurídico de sus Administraciones Públicas, de la contratación del sector público, de las concesiones y de los bienes de titularidad pública de éstas, de la responsabilidad patrimonial de la Administración de acuerdo con el sistema general de responsabilidad de las Administraciones Públicas y del régimen estatutario de los empleados públicos.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) En estas materias corresponden a la Comunidad Autónoma la potestad reglamentaria organizativa y la adopción de planes, programas, medidas, decisiones y actos.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "8.- Respecto de la Asamblea de la Comunidad Autónoma de Extremadura:",
+            "options": [
+                {
+                    "text": "a) Le corresponde el ejercicio de la potestad reglamentaria de la Comunidad Auténoma.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "b) Promueve y controla la acción del Presidente y de la Junta de Extremadura, y exige, en su caso, su responsabilidad política en los términos previstos en el Estatuto.",
+                    "isCorrect": true,
+                    "hint": ""
+                },
+                {
+                    "text": "C) Elabora su Reglamenta, cuya aprobación y modificación exigirá mayoría simple de la Cámara en una votación final sobre el conjunto del proyecto.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "9.- Respecto del Presidente de Extremadura:",
+            "options": [
+                {
+                    "text": "a) El Presidente ostenta la más alta representación de la Comunidad Autónoma, ejerce la representación ordinaria del Estado en la misma y preside la Junta de Extremadura.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) El Presidente ostenta la más alta representación de la Comunidad Autónoma, y preside la Asamblea de Extremadura.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "C) El Presidente ostenta la más alta representación de la Comunidad Autónoma y ejerce la representación extraordinaria de la delegación del Gobierno.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "10.- Respecto de la investidura del Presidente de Extremadura:",
+            "options": [
+                {
+                    "text": "a) El Presidente será elegido por la Junta de Extremadura de entre sus miembros y nombrado por el Rey.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "b) En el plazo de quince días desde su constitución, el Presidente de la Asamblea, previa consulta a los Grupos parlamentarios, propondrá un candidato a la Presidencia de entre los que le sean presentados, al menos, por la cuarta parte de los miembros de la Cámara.",
+                    "isCorrect": true,
+                    "hint": ""
+                },
+                {
+                    "text": "C). El candidato propuesto presentará su programa al Pleno de la Asamblea dentro de los veinte días siguientes a su designación.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "11.- El Parlamento Europeo, tiene su sede oficial, donde se celebran las 12 sesiones plenarias mensuales, en:",
+            "options": [
+                {
+                    "text": "a) Estrasburgo (Francia).",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) Colonia (Alemania).",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Praga (Republica Checa).",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "12.- Respecto del Consejo Europeo, es correcto que:",
+            "options": [
+                {
+                    "text": "a) Esta institución actuará fuera de los límites de las atribuciones que le confieren los Tratados.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "b) Tiene su sede oficial en Lisboa (Portugal).",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Está compuesto por los 27 Jefes de Estado o de Gobierno de los Estados miembros.",
+                    "isCorrect": true,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "13.- Según dispone el artículo 288 del Tratado de Funcionamiento de la Unión Europea:",
+            "options": [
+                {
+                    "text": "a) El reglamento obligará solamente al Estado miembro destinatario, dejando a las autoridadesnacionales la elección de la forma y de los medios para su aplicación.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "b) El reglamento tendrá un alcance general. Será obligatorio en todos sus elementos y directamenteaplicable en cada Estado miembro.",
+                    "isCorrect": true,
+                    "hint": ""
+                },
+                {
+                    "text": "c) El reglamento tendrá un alcance parcial. No será directamente aplicable en cada Estado miembro.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "14.- El artículo 11.2 de la Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local establece que:",
+            "options": [
+                {
+                    "text": "a) Son elementos del Municipio su termino municipal, y los vecinos del municipio.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "b) Son elementos del Municipio el territorio y la población que viva en la localidad.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Son elementos del Municipio el territorio, la población y la organización.",
+                    "isCorrect": true,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "15.- El artículo 25.2 de la Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local establece que, el Municipio ejercerá en todo caso como competencias propias, en los términos de la legislación del Estado y de las Comunidades Autónomas:",
+            "options": [
+                {
+                    "text": "a) Cementerios y actividades funerarias.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) Registro oficial de instalaciones turisticas.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "C) Regulación de la educación secundaria obligatoria.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "16.- El artículo 26.1 de la Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local establece que, en todos los Municipios se deberán prestar, los servicios siguientes:",
+            "options": [
+                {
+                    "text": "a) Protección civil, y prevención y extinción de incendios.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "b) Abastecimiento domiciliario de agua potable, alcantarillado.",
+                    "isCorrect": true,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Transporte colectivo urbano de viajeros y medio ambiente urbano.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "17.- Conforme dispone el artículo 31.2 de la Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, son fines propios y específicos de la Provincia:",
+            "options": [
+                {
+                    "text": "a) Colaborar en la prestación de algunos servicios de competencia municipal",
+                    "isCorrect": false
+                },
+                {
+                    "text": "b) Participar en la prestación de la mayoría de los servicios de competencia municipal.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Asegurar la prestación integral y adecuada en la totalidad del territorio provincial de los servicios de competencia municipal.",
+                    "isCorrect": true,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "18.- Conforme dispone el artículo 33.2 de la Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, corresponde en todo caso al Pleno de la Diputación:",
+            "options": [
+                {
+                    "text": "a) La jefatura superior de todo el personal.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "b) El nombramiento de los Vicepresidentes.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) La aprobación de las ordenanzas.",
+                    "isCorrect": true,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "19.- Conforme dispone el artículo 34.1 de la Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, corresponde en todo caso al Presidente de la Diputación:",
+            "options": [
+                {
+                    "text": "a) Convocar y presidir las sesiones del Pleno.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) La alteración de la calificación jurídica de los bienes de dominio público.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) La aprobación y modificación de los Presupuestos.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "20.- Conforme dispone el artículo 44.1 de la Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, para la ejecución en común de obras y servicios determinados de su competencia, se reconoce a los municipios:",
+            "options": [
+                {
+                    "text": "a) El derecho a asociarse con otros en mancomunidades.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) El derecho a asociarse con otros en Diputaciones regionales.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) El derecho a asociarse con otros en áreas comarcales metropolitanas.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "21.- De acuerdo con el Decreto del Presidente de la Institución Provincial de Badajoz, de fecha 10 de abril de 2024 (BOP n.° 69 de 11/04/2024), relativo a las Áreas funcionales y Delegaciones de la Corporación Provincial, el Área de Presidencia y Relaciones Institucionales está integrada, entre otros, por:",
+            "options": [
+                {
+                    "text": "a) Secretaría General, Gabinete de Asuntos Judiciales, Servicio de Transparencia, Participación, Calidad y Atención al Ciudadano.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "b) Gabinete de Presidencia, Secretaría General, Servicio de Transparencia, Participación, Calidad y Atención al Ciudadano.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Secretaria General, Gabinete de comunicación, Oficina de Proyectos Europeos.",
+                    "isCorrect": true,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "22.- De conformidad con lo dispuesto en el Decreto del Presidente de la Institución Provincial de Badajoz de fecha 10 de abril de 2024 (BOP n* 69 de 11/04/2024), en relación con las Areas funcionales y Delegaciones de la Corporación Provincial, el Área de Cultura, Deportes y Juventud, está integrada, entre otros, por:",
+            "options": [
+                {
+                    "text": "a) Servicio de Actividades Culturales y Deportivas, Servicio Provincial de Bibliotecas, Oficina de Promoción Turística.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "b) Servicio de Actividades Culturales y Deportivas, Servicio Provincial de Bibliotecas, Servicio de Dirección de la Residencia Universitaria “Hernán Cortés”.",
+                    "isCorrect": true,
+                    "hint": ""
+                },
+                {
+                    "text": "C) Servicio de Actividades Culturales y Deportivas, Servicio de Archivo Provincial, Oficina de Promoción Turística.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "23.- De acuerdo con el Decreto del Presidente de la Institución Provincial de Badajoz, de fecha 10 de abril de 2024 (BOP n.* 69 de 11/04/2024), sobre las Áreas funcionales y Delegaciones de la Corporación Provincial, el Área de Formación y Capacitación para el Empleo está compuesta, entre otros, por:",
+            "options": [
+                {
+                    "text": "a) Servicio de Capacitación para el Empleo, Servicio de Emprendimiento y CID, Servicio de Publicaciones e Imprenta Provincial.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) Servicio de Capacitación para el Empleo, Servicio de Emprendimiento y CID, Servicio de Boletín Oficial de la Provincia.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Servicio de Capacitación para el Empleo, Servicio de Emprendimiento y CID, Servicio de Formación.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "24.- Según el Decreto del Presidente de la Institución Provincial de Badajoz, de fecha 10 de abril de 2024 (BOP n.° 69 de 11/04/2024), las Áreas, Delegaciones y Organismos que forman parte del eje estratégico “Gobierno corporativo y servicios públicos básicos para los municipios” incluyen, entre otros, los siguientes:",
+            "options": [
+                {
+                    "text": "a) Presidencia y Relaciones Institucionales, Recursos Humanos y Régimen Interior, Organismo Autónomo RESTAURA.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) Presidencia y Relaciones Institucionales, Recursos Humanos y Régimen Interior, Consorcio Gestión Servicios Medioambientales (PROMEDIO)",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "C) Presidencia y Relaciones Institucionales, Recursos Humanos y Régimen Interior, Transición Ecológica.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "25.- Atendiendo a lo dispuesto en el Decreto del Presidente de la Institución Provincial de Badajoz de fecha 10 de abril de 2024 (BOP n* 69 de 11/04/2024), son organismos autónomos:",
+            "options": [
+                {
+                    "text": "a) PROMEDIO, OAR y RESTAURA.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "b) OAR, RESTAURA y Escuela de Tauromaquia.",
+                    "isCorrect": true,
+                    "hint": ""
+                },
+                {
+                    "text": "c) CPEI, PROMEDIO y OAR.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "26.- Según lo establecido en el artículo 2 del Reglamento Orgánico de la Diputación Provincial de Badajoz (BOP N.* 179 de fecha 19/09/2019), cuál es el orden de prelación de fuentes en la regulación de materias del citado Reglamento:",
+            "options": [
+                {
+                    "text": "a) Preceptos de la legislación básica estatal de régimen local, normativa estatal no básica con rango de Ley, preceptos de la legislación autonómica de Extremadura sobre régimen local, normativa estatal o autonómica de carácter reglamentario, preceptos del presente Reglamento. ",
+                    "isCorrect": false
+                },
+                {
+                    "text": "b) Preceptos de la legislación básica estatal de régimen local, preceptos de la legislación autonómica de Extremadura sobre régimen local, normativa estatal no básica con rango de Ley, preceptos del presente Reglamento, normativa estatal o autonómica de carácter reglamentario.",
+                    "isCorrect": true,
+                    "hint": ""
+                },
+                {
+                    "text": "C) Preceptos del presente Reglamento, normativa estatal o autonómica de carácter reglamentario, preceptos de la legislación básica estatal de régimen local, preceptos de la legislación autonómica de Extremadura sobre régimen local, normativa estatal no básica con rango de Ley.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "27.- Conforme dispone el artículo 7 del Reglamento Orgánico de la Diputación Provincial de Badajoz (BOP N.* 179 de fecha 19/09/2019), el Presidente puede delegar el ejercicio de las siguientes atribuciones:",
+            "options": [
+                {
+                    "text": "a) Presidir las sesiones del Pleno y de la Junta de Gobierno.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "b) La jefatura superior de todo el personal.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "C) Representar a la Diputación.",
+                    "isCorrect": true,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "28.- Atendiendo a lo dispuesto en el artículo 12 del Reglamento Orgánico de la Diputación Provincial de Badajoz (BOP N.* 179 de fecha 19/09/2019), la Junta de Gobierno se integra por:",
+            "options": [
+                {
+                    "text": "a) El Presidente y un número de Diputados/as no superior al tercio legal de los mismos.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) El Presidente y un número de Diputados/as superior al tercio legal de los mismos.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "C) El Presidente y un número de Diputados/as igual al tercio legal de los mismos.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "29.- De conformidad con lo establecido en el artículo 15 del Reglamento Orgánico de la Diputación Provincial de Badajoz (BOP N.* 179 de fecha 19/09/2019) entre las atribuciones del Pleno se encuentran:",
+            "options": [
+                {
+                    "text": "a) Control y fiscalización de los órganos de gobierno.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) Aprobar la oferta de empleo público",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "C) Aprobar las bases de las pruebas para la selección del personal.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "30 Atendiendo a lo dispuesto en el artículo 53 del Reglamento Orgánico de la Diputación Provincial de Badajoz (BOP N.° 179 de fecha 19/09/2019), Los/as Diputados/as provinciales que no tengan dedicación exclusiva ni dedicación parcial percibiran:",
+            "options": [
+                {
+                    "text": "a) Retribuciones por la concurrencia efectiva a las sesiones de los órganos colegiados de la Corporación.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "b) Asistencias por la concurrencia efectiva a las sesiones de los órganos colegiados de la Corporación.",
+                    "isCorrect": true,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Retribuciones y asistencias por la concurrencia efectiva a las sesiones de los órganos colegiados de la Corporación",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "31.- El Concejal, Diputado o miembro de cualquier entidad local perderá su condición de tal, según relaciona el artículo 9 del Real Decreto 2568/1986 de 28 de noviembre por el que se aprueba el Reglamento de Organización, Funcionamiento y Régimen Jurídico de las Entidades Locales, por la siguiente causa:",
+            "options": [
+                {
+                    "text": "a) Por haber causado baja en el partido político con el que concurrió al proceso electoral.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "b) Por pérdida de la nacionalidad española.",
+                    "isCorrect": true,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Por renuncia hecha por escrito ante el Alcalde o Presidente.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "32.- Según el artículo 14 del Real Decreto 2568/1986 de 28 de noviembre por el que se aprueba el Reglamento de Organización, Funcionamiento y Régimen Juridico de las Entidades Locales, respecto a la petición de acceso a las informaciones por parte de los miembros de las Corporaciones Locales:",
+            "options": [
+                {
+                    "text": "a) Se entenderá concedida por silencio administrativo si no se ha dictado resolución o acuerdo denegatorio en el término de cinco días desde la fecha de la solicitud.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) Se entenderá desestimada por silencio administrativo si no se ha dictado resolución o acuerdo en el término de cinco días desde la fecha de la solicitud.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) La denegación del acceso podrá hacerse por resolución o acuerdo motivado.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "33.- El artículo 22.1 del Real Decreto 2568/1986 de 28 de noviembre por el que se aprueba el Reglamento de Organización, Funcionamiento y Régimen Jurídico de las Entidades Locales, dispone que los miembros de las Corporaciones Locales:",
+            "options": [
+                {
+                    "text": "a) Están sujetos a responsabilidad civil, penal y mercantil por los actos realizados en el ejercicio de su cargo.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "b) Están sujetos a responsabilidad civil y penal por los actos realizados en el ejercicio de su cargo.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Están sujetos a responsabilidad civil y penal por los actos y omisiones realizados en el ejercicio de su cargo.",
+                    "isCorrect": true,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "34.- El artículo 55 del Real Decreto 2568/1986 de 28 de noviembre por el que se aprueba el Reglamento de Organización, Funcionamiento y Régimen Jurídico de las Entidades Locales, refleja que es un órgano necesario de las Diputaciones:",
+            "options": [
+                {
+                    "text": "a) La Comisión Informativa.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "b) La Comisión de Gobierno.",
+                    "isCorrect": true,
+                    "hint": ""
+                },
+                {
+                    "text": "c) La Comisión Provincial.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "35.- Según recoge el artículo 77 del Real Decreto 2568/1986 de 28 de noviembre por el que se aprueba el Reglamento de Organización, Funcionamiento y Régimen Jurídico de las Entidades Locales, las sesiones del Pleno pueden ser:",
+            "options": [
+                {
+                    "text": "a) Ordinarias y extraordinarias.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "b) Ordinarias y extraordinarias de carácter urgente.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Ordinarias, extraordinarias y extraordinarias de carácter urgente.",
+                    "isCorrect": true,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "36.- Los dictámenes de las Comisiones informativas, según redacción del artículo 126 del Real Decreto 2568/1986 de 28 de noviembre por el que se aprueba el Reglamento de Organización, Funcionamiento y Régimen Jurídico de las Entidades Locales:",
+            "options": [
+                {
+                    "text": "a) Tienen carácter preceptivo y no vinculante.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) Tienen carácter preceptivo y vinculante.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": ") Tienen carácter potestativo y no vinculante.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "37.- Según define el artículo 164 del Real Decreto 2568/1986 de 28 de noviembre por el que se aprueba el Reglamento de Organización, Funcionamiento y Régimen Jurídico de las Entidades Locales, constituye expediente el conjunto ordenado de documentos:",
+            "options": [
+                {
+                    "text": "a) Que sirven de antecedente y fundamento a la resolución administrativa.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "b) Que sirven de fundamento a la resolución administrativa previo a su ejecución.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Que sirven de antecedente y fundamento a la resolución administrativa, así como las diligencias encaminadas a ejecutarla.",
+                    "isCorrect": true,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "38.- Según el artículo 227 del Real Decreto 2568/1986 de 28 de noviembre por el que se aprueba el Reglamento de Organización, Funcionamiento y Régimen Jurídico de las Entidades Locales:",
+            "options": [
+                {
+                    "text": "a) Las sesiones del Pleno son públicas en todo caso.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "b) Las sesiones de la Comisión de Gobierno no son públicas.",
+                    "isCorrect": true,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Las sesiones de las Comisiones Informativas son públicas.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "39.- El artículo 5 del Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo, de 27 de abril de 2016, relativo a la protección de las personas físicas en lo que respecta al tratamiento de datos personales y a la libre circulación de estos datos, recoge los Principios relativos al tratamiento de datos personales, entre los que se encuentra el de:",
+            "options": [
+                {
+                    "text": "a) Minimización de datos.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) Inexactitud de datos.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Transferencia de datos.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "40.- Conforme al artículo 7.1 de la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, el tratamiento de los datos personales de un menor de edad únicamente podrá fundarse en su consentimiento cuando sea mayor de:",
+            "options": [
+                {
+                    "text": "a) 12 años.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "b) 14 años.",
+                    "isCorrect": true,
+                    "hint": ""
+                },
+                {
+                    "text": "c) 16 años.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "41.- Entre los principios de la acción preventiva por parte del empresario del Art. 15 de la ley 31/1995 de Prevención de Riesgos Laborales no se incluye ",
+            "options": [
+                {
+                    "text": "a) Adaptar el trabajo a la persona, en particular en lo que respecta a la concepción de los puestos de trabajo, así como a la elección de los equipos y los métodos de trabajo y de producción, con miras, en particular, a atenuar el trabajo monótono y repetitivo y a reducir los efectos del mismo en la salud .",
+                    "isCorrect": false
+                },
+                {
+                    "text": "b) Evitar los riesgos.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Adoptar medidas que antepongan la protección individual a la colectiva",
+                    "isCorrect": true,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "42.- Cual de las siguientes circunstancias no se encuentra recogida en el Art. 31 de la ley 31/1995 de Prevención de Riesgos Laborales como medios apropiados y adecuados a las actividades preventivas a desarrollar.",
+            "options": [
+                {
+                    "text": "a) Tamaño de la empresa y distribución de riesgos de la misma ",
+                    "isCorrect": false
+                },
+                {
+                    "text": "b) Tipos de riesgo a los que puedan encontrarse expuestos los trabajadores.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Mayor lejanía de centros hospitalarios y servicios de prevención de extinción de incendios",
+                    "isCorrect": true,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "43.-Señale la respuesta correcta. Se entiende como “riesgo laboral” de los recogidos en el Art. 4 de la ley 31/1995 de Prevención de Riesgos Laborales , ",
+            "options": [
+                {
+                    "text": "a) Cualquier máquina, aparato, instrumento o instalación utilizada en el trabajo y que provoque peligro para la vida del trabajador.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "b) Las enfermedades, patologías o lesiones sufridas con motivo u ocasión del trabajo.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) La posibilidad de que un trabajador sufra un determinado daño derivado del trabajo.",
+                    "isCorrect": true,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "44.- Señale la respuesta incorrecta. En base al Art. 14 de la ley 31/1995 de Prevención de Riesgos Laborales y en lo relativo al Derecho de protección frente a los riesgos laborales.",
+            "options": [
+                {
+                    "text": "a) Los trabajadores tienen derecho a una protección eficaz en materia de seguridad y salud en el trabajo",
+                    "isCorrect": false
+                },
+                {
+                    "text": "b) El empresario deberá cumplir las obligaciones establecidas en la normativa sobre prevención de riesgos laborales",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) El coste de las medidas relativas a la seguridad y la salud en el trabajo no podrá recaer en modo alguno sobre los trabajadores",
+                    "isCorrect": true,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "45.-Señale la respuesta incorrecta. En relación con el derecho de vigilancia de la salud y en consonancia con el Art. 22 de la ley 31/1995 de Prevención de Riesgos Laborales",
+            "options": [
+                {
+                    "text": "a)Las medidas de vigilancia y control de la salud de los trabajadores se llevarán a cabo respetando siempre el derecho a la intimidad y a la dignidad de la persona del trabajador y la confidencialidad de toda la información relacionada con su estado de salud ",
+                    "isCorrect": false
+                },
+                {
+                    "text": "b)El empresario garantizará a los trabajadores a su servicio la vigilancia periódica de su estado de salud en función de los riesgos inherentes al trabajo. Esta vigilancia podrá llevarse a cabo aunque el trabajador no preste su consentimiento ",
+                    "isCorrect": true,
+                    "hint": ""
+                },
+                {
+                    "text": "c)Las medidas de vigilancia y salud y control de la salud de los trabajadores se llevarán a cabo por personal sanitario con competencia técnica, formación y capacidad acreditada",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "46.-No constituye un medio de prueba calificado para la identificación de las situaciones de violencia de género en base al Art. 79 de la ley 8/2011 de Igualdad de Mujeres y Hombres y contra la Violencia de Género",
+            "options": [
+                {
+                    "text": "a)El informe del Instituto de la Mujer de Extremadura, en función de la información recibida de los diferentes dispositivos que constituyen la Red de Atención a las Víctimas de la Violencia de Género ",
+                    "isCorrect": false
+                },
+                {
+                    "text": "b)La sentencia de cualquier orden jurisdiccional, aunque no haya ganado firmeza, que declare que la mujer ha sufrido alguna de las formas de esta violencia.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c)Certificado de convivencia fuera del núcleo familiar por un plazo superior a quince días",
+                    "isCorrect": true,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "47. Señale la respuesta correcta La situación en la que se encuentra una persona que, en atención a su sexo, sea, haya sido o pudiera ser tratada de manera menos favorable que otra en situación homóloga, en base a lo recogido en el Art. 4 de la ley 8/2011 de Igualdad de Mujeres y Hombres y contra la Violencia de Género se define como;",
+            "options": [
+                {
+                    "text": "a) Acoso sexual.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "b) Discriminación directa.",
+                    "isCorrect": true,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Discriminación directa por razón de sexo.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "48.- Señale la respuesta correcta. Para determinar los requisitos de necesidad económica de la mujer víctima de violencia de género según se recoge el Art. 83 de la ley 8/2011 de Igualdad de Mujeres y Hombres y contra la Violencia de Género , se tendrá en cuenta:",
+            "options": [
+                {
+                    "text": "a) Se tendrán en cuenta las rentas o ingresos de la mujer solicitante y de las personas con quien conviva.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "b) Sólo se tendrán en cuenta las rentas o ingresos personales de que disponga la mujer solicitante. ",
+                    "isCorrect": true,
+                    "hint": ""
+                },
+                {
+                    "text": "c) El cálculo se realizará en base a que no se supere dos veces y media el valor del IPREM entre todos los miembros de la unidad familiar",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "49.- Elige la respuesta correcta. La Junta de Extremadura, a propuesta de la Consejería competente en materia de igualdad y con el dictamen del Consejo Extremeño de Participación de las Mujeres, de conformidad con el Art. 25 dela Ley 8/2011 de Igualdad de Mujeres y Hombres y contra la Violencia de Género aprobará:",
+            "options": [
+                {
+                    "text": "a) Cada cuatro años el Plan Estratégico para la Igualdad entre Mujeres y Hombres.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) Cada tres años el Plan Estratégico para la Igualdad entre Mujeres y Hombres.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Cada dos años el Plan Estratégico para la Igualdad entre Mujeres y Hombres.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "50.-Elige la respuesta correcta. Señala el Art. 26 de la ley 8/2011 de Igualdad de Mujeres y Hombres y contra la Violencia de Géneroque el informe de evaluación de impacto de género sobre el anteproyecto de ley del Presupuesto lo emitirá :",
+            "options": [
+                {
+                    "text": "a) La Comisión de Impacto de Género de los Presupuestos,",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) El Consejo Extremeño de Participación de las Mujeres",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) La Consejería competente en asuntos de Presidencia",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "51.- De conformidad con lo establecido en el artículo 8 de la Ley 39/2015 de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas:",
+            "options": [
+                {
+                    "text": "a) Si durante la instrucción de un procedimiento que no haya tenido publicidad, se advierte la existencia de personas que sean titulares de derechos o intereses legítimos y directos cuya identificación resulte del expediente y que puedan resultar afectados por la resolución que se dicte, se comunicará a dichas personas la tramitación del procedimiento.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) Cuando en una solicitud, escrito o comunicación figuren varios interesados, las actuaciones a que den lugar se efectuarán con el representante o el interesado que expresamente hayan señalado, y, en su defecto, con el que figure en segundo término.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Cada Comunidad Autónoma aprobará los modelos de poderes inscribibles en el registro cuando se circunscriba a actuaciones ante las Entidades locales.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "52.- De conformidad con lo establecido en el artículo 10 de la Ley 39/2015 de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, se considerarán válidos a efectos de firma:",
+            "options": [
+                {
+                    "text": "a) Sistemas de firma electrónica cualificada y básica basados en certificados electrónicos cualificados de firma electrónica expedidos por prestadores incluidos en la “Lista de confianza de prestadores de servicios de certificación”.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "b) Sistemas de sello electrónico cualificado y de sello electrónico básico basados en certificados electrónicos cualificados de sello electrónico expedidos por prestador incluido en la “Lista de confianza de prestadores de servicios de certificación”.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Cualquier otro sistema que las Administraciones Públicas consideren válido en los términos y condiciones que se establezca, siempre que cuenten con un registro previo como usuario que permita garantizar su identidad, previa autorización por parte de la Secretaría General de Administración Digital del Ministerio de Política Territorial y Función Pública.",
+                    "isCorrect": true,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "53.- De conformidad con lo establecido en el artículo 14 de la Ley 39/2015 de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, en todo caso, estarán obligados a relacionarse a través de medios electrónicos con las Administraciones Públicas para la realización de cualquier trámite de un procedimiento administrativo, al menos, los siguientes sujetos:",
+            "options": [
+                {
+                    "text": "a) Las personas físicas.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "b) Los empleados de las Administraciones Públicas para cualquier trámite.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Las entidades sin personalidad jurídica.",
+                    "isCorrect": true,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "54.- De conformidad con lo establecido en el artículo 35 de la Ley 39/2015 de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, serán motivados, con sucinta referencia de hechos y fundamentos de derecho:",
+            "options": [
+                {
+                    "text": "a) Los actos que admitan pruebas propuestas por los interesados ",
+                    "isCorrect": false
+                },
+                {
+                    "text": "b) Los acuerdos de aplicación de la tramitación de urgencia, de ampliación de plazos y de realización de actuaciones complementarias.",
+                    "isCorrect": true,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Los actos que confirmen el criterio seguido en actuaciones precedentes o el dictamen de órganos consultivos.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "55.- De conformidad con lo establecido en el artículo 37 de la Ley 39/2015 de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas:",
+            "options": [
+                {
+                    "text": "a) Son nulas las resoluciones administrativas que vulneren lo establecido en una disposición reglamentaria, así como aquellas que incurran en alguna de las causas recogidas en el artículo 48. ",
+                    "isCorrect": false
+                },
+                {
+                    "text": "b) Las resoluciones administrativas de carácter particular podrán vulnerar lo establecido en una disposición de carácter general, aunque aquéllas procedan de un órgano de igual o superior jerarquía al que dictó la disposición general.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Son nulas las resoluciones administrativas que vulneren lo establecido en una disposición reglamentaria.",
+                    "isCorrect": true,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "56.- De conformidad con lo establecido en el artículo 55 de la Ley 39/2015 de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas:",
+            "options": [
+                {
+                    "text": "a) Con anterioridad al inicio del procedimiento, el órgano competente deberá abrir un período de información o actuaciones previas con el fin de conocer las circunstancias del caso concreto y la conveniencia o no de iniciar el procedimiento.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "b) En el caso de procedimientos de responsabilidad patrimonial las actuaciones previas se orientarán a determinar, con la mayor precisión posible, los hechos susceptibles de motivar la incoación del procedimiento, la identificación de la persona o personas que pudieran resultar responsables y las circunstancias relevantes que concurran en unos y otros.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "C) Las actuaciones previas serán realizadas por los órganos que tengan atribuidas funciones de investigación, averiguación e inspección en la materia y, en defecto de éstos, por la persona u órgano administrativo que se determine por el órgano competente para la iniciación o resolución del procedimiento.",
+                    "isCorrect": true,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "57.- De conformidad con lo establecido en el articulo 56 de la Ley 39/2015 de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, se podrán acordar las siguientes medidas provisionales:",
+            "options": [
+                {
+                    "text": "a) La retención de ingresos a cuenta que deban abonar las Administraciones Públicas.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) Suspensión definitiva de actividades.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Embargo definitivo de bienes.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "58.- Tendrán la consideración de órganos administrativos:",
+            "options": [
+                {
+                    "text": "a) Las unidades administrativas a las que se les atribuyan funciones que no tengan efectos jurídicos frente a terceros.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "b) Las unidades administrativas cuya actuación tenga carácter preceptivo.",
+                    "isCorrect": true,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Las unidades administrativas cuya actuación tenga carácter facultativo.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "59.- No es un principio de la potestad sancionadora:",
+            "options": [
+                {
+                    "text": "a) Principio de legalidad.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "b) Prescripción.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Concurrencia de infracciones.",
+                    "isCorrect": true,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "60.- En relación con la responsabilidad patrimonial concurrente de las Administraciones Públicas ",
+            "options": [
+                {
+                    "text": "a) Cuando se trate de procedimientos en materia de responsabilidad patrimonial, la Administración Pública competente, deberá consultar a las restantes Administraciones implicadas para que, en el plazo de quince dias, éstas puedan exponer cuanto consideren procedente",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) Cuando se trate de procedimientos en matería de responsabilidad patrimonial, la Administración Pública competente, deberá consultar a las restantes Administraciones implicadas para que, en el plazo de veinte días, éstas puedan exponer cuanto consideren procedente.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Cuando se trate de procedimientos en materia de responsabilidad patrimonial, la Administración Pública competente, deberá consultar a las restantes Administraciones implicadas para que, en el plazo de diez días, éstas puedan exponer cuanto consideren procedente",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "61.- Según lo establecido en el art. 147 de la Ley 40/2015, de 1 de octubre, de Régimen Juridico del Sector Público, la Conferencia Sectorial es:",
+            "options": [
+                {
+                    "text": "a) Un órgano de cooperación, de composición multilateral y ámbito sectorial determinado.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) Un órgano de cooperación, de composición bilateral y ámbito sectorial determinado.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Un órgano de colaboración, de composición multilateral y ámbito sectorial determinado.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "62.- De conformidad con lo dispuesto en el art. 39.5 en relación con el art. 53 del Real Decreto 203/2021, de 30 de marzo, por el que se aprueba el Reglamento de actuación y funcionamiento del sector público por medios electrónicos dispone sobre los documentos presentados en las oficinas de asistencia en materia de registro, que:",
+            "options": [
+                {
+                    "text": "a) Una vez digitalizados serán conservados obligatoriamente a disposición del interesado durante tres meses para que pueda recogerlos.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "b) Serán devueltos a las personas interesadas inmediatamente tras su digitalización o, en caso contrario, se les aplicará lo previsto en el artículo 53 de este Reglamento.",
+                    "isCorrect": true,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Si por cualquier circunstancia no le puedan ser devueltos en el momento de su presentación, una vez digitalizados, serán conservados a su disposición durante tres meses para que pueda recogerlos.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "63.- Atendiendo a lo dispuesto en el artículo 9.2 del Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público (TREBEP), en todo caso, el ejercicio de las funciones que impliquen la participación directa o indirecta en el ejercicio de las potestades públicas, corresponden exclusivamente a:",
+            "options": [
+                {
+                    "text": "a) El personal eventual.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "b) El personal directivo profesional",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) El personal funcionario público.",
+                    "isCorrect": true,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "64.- Conforme establece el artículo 16 del TREBEP, la carrera profesional que consiste en el ascenso en la estructura de puestos de trabajo por los procedimientos de provisión establecidos en el capítulo III del Título V de este Estatuto, es la siguiente modalidad:",
+            "options": [
+                {
+                    "text": "a) Carrera horizontal.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "b) Carrera vertical.",
+                    "isCorrect": true,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Promoción interna vertical.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "65.- Atendiendo a lo dispuesto en el artículo 54 del TREBEP, son principios de conducta:",
+            "options": [
+                {
+                    "text": "a) Ajustar su actuación a los principios de Icaltad y buena fe con la Administración en la que presten sus servicios, y con sus superiores, compañeros, subordinados y con los ciudadanos ",
+                    "isCorrect": false
+                },
+                {
+                    "text": "b) Tratar con atención y respeto a los ciudadanos, a sus superiores y a los restantes empleados públicos.",
+                    "isCorrect": true,
+                    "hint": ""
+                },
+                {
+                    "text": "C) Respetar la Constitución y el resto de normas que integran el ordenamiento jurídico.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "66.- Según lo establecido en el art. 70.1 del TREBEP, las necesidades de recursos humanos, con asignación presupuestaria, que deban proveerse mediante la incorporación de personal de nuevo ingreso serán objeto de:",
+            "options": [
+                {
+                    "text": "a) La Oferta de Empleo Público.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) El Plan de Ordenación de recursos humanos.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "C) El Plan de Empleo específico.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "67.- Atendiendo a lo dispuesto en el artículo 88.3 del TREBEP, los funcionarios de carrera en la situación de servicio en otras Administraciones Públicas que se encuentren en dicha situación por haber obtenido un puesto de trabajo mediante los sistemas de provisión previstos en este Estatuto, se rigen por la legislación de:",
+            "options": [
+                {
+                    "text": "a) La Administración de origen.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "b) La Administración en la que estén destinados de forma efectiva.",
+                    "isCorrect": true,
+                    "hint": ""
+                },
+                {
+                    "text": "c) La Administración de origen o la Administración de destino, a elección del propio funcionario.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "68.- Según lo establecido en el art. 8 del Real Decreto Legislativo 2/2015, de 23 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto de los Trabajadores, deberán constar por escrito los contratos de trabajo:",
+            "options": [
+                {
+                    "text": "a) A tiempo completo.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "b) A tiempo parcial.",
+                    "isCorrect": true,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Los contratos cuya duración no sea superior a cuatro semanas.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "69.- Según establece el artículo segundo de la Ley 53/1984, de 26 de diciembre, de incompatibilidades del personal al servicio de las Administraciones Públicas, será de aplicación la ley al personal al servicio de las Corporaciones Locales:",
+            "options": [
+                {
+                    "text": "a) Cualquiera que sea la naturaleza jurídica de la relación de empleo.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) Salvo a los cargos electos de las mismas.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Salvo al personal eventual.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "70.- Atendiendo a lo dispuesto en el artículo 3 del Real Decreto Legislativo 2/2004 de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales, constituyen ingresos de derecho privado de las entidades locales:",
+            "options": [
+                {
+                    "text": "a) Productos de operaciones de crédito.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "b) Productos derivados de su patrimonio.",
+                    "isCorrect": true,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Productos derivados de bienes de dominio público local.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "71.- El artículo 20.3 del Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales (en adelante TRLRHL), establece que las entidades locales podrán establecer tasas por:",
+            "options": [
+                {
+                    "text": "a) Apertura de zanjas, calicatas y calas en terrenos de uso público local,",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) Apertura de zanjas, calicatas y calas en terrenos del dominio particular.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "C) Apertura de zanjas, calicatas y calas en terrenos privados.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "72.- El artículo 48 bis.1 del TRLRHL cita que, se entiende por prudencia financiera:",
+            "options": [
+                {
+                    "text": "a) El conjunto de condiciones que deben cumplir las operaciones financieras para minimizar su riesgo y coste.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) El conjunto de condiciones que deben cumplir las operaciones de crédito para limitar su riesgo y coste.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "C) Fl conjunto de condiciones que deben cumplir las operaciones de crédito para determinar su riesgo y coste.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "73.- Conforme dispone el artículo 134.2 del TRLRHL, relativo al recargo de las Provincias sobre el Impuesto sobre Actividades Económicas, las Diputaciones Provinciales podrán establecer un recargo que consistirá en un porcentaje único:",
+            "options": [
+                {
+                    "text": "a) Y su tipo no podrá ser superior al 40 por ciento.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) Y su tipo no podrá ser superior al 30 por ciento",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Y su tipo no podrá ser superior al 20 por ciento.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "74.- El artículo 169.1 del TRLRHL establece que, aprobado inicialmente el presupuesto general, se expondrá al público:",
+            "options": [
+                {
+                    "text": "a) Por 30 días.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "b) Por 15 días.",
+                    "isCorrect": true,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Por 10 días.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "75.- Las bases de ejecución presupuestaria 2024 establecen en su base 8 que, de nueva creación en este ejercicio, presenta un presupuesto de 1.888.000,00 euros:",
+            "options": [
+                {
+                    "text": "a) El Organismo Autónomo Administrativo RESTAURA.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) El Consorcio de Servicios Administrativos RESTAURA,",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "C) El Patronato Provincial Administrativo RESTAURA.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "76.- La Ley Orgánica 2/2012, de 27 de abril, de Estabilidad Presupuestaria y Sostenibilidad Financiera, establece en su artículo 3.2 que, se entenderá por estabilidad presupuestaria de las Administraciones públicas:",
+            "options": [
+                {
+                    "text": "a) La capacidad para financiar compromisos de gasto presentes y futuros,",
+                    "isCorrect": false
+                },
+                {
+                    "text": "b) Contar con información suficiente para verificar su situación financiera.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) La situación de equilibrio o superávit estructural.",
+                    "isCorrect": true,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "77.- La Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, establece en su artículo 3.2 que, dentro del sector público, y a los efectos de esta Ley, SI tendrán la consideración de Administraciones Públicas:",
+            "options": [
+                {
+                    "text": "a) Las Universidades Publicas.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) Las fundaciones públicas.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Las Entidades Públicas Empresariales a las que se refiere la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "78.- La Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, establece en su artículo 17 que, aquellos contratos cuyo objeto son prestaciones de hacer consistentes en el desarrollo de una  actividad o dirigidas a la obtención de un resultado distinto de una obra o suministro, son:",
+            "options": [
+                {
+                    "text": "a) Contratos de concesión de obras.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "b) Contratos de servicios,",
+                    "isCorrect": true,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Contratos de concesión de servicios.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "79.- La Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, establece en su artículo 29.4 que, como consecuencia de incidencias resultantes de acontecimientos imprevisibles, se podrá prorrogar el contrato originario:",
+            "options": [
+                {
+                    "text": "a) Por un periodo máximo de doce meses, siempre que el anuncio de licitación del nuevo contrato se haya publicado con una antelacién mínima de nueve meses, ",
+                    "isCorrect": false
+                },
+                {
+                    "text": "b) Por un periodo máximo de nueve meses, siempre que el anuncio de licitación del nuevo contrato se haya publicado con una antelación mínima de tres meses.",
+                    "isCorrect": true,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Por un periodo máximo de doce meses, siempre que el anuncio de licitación del nuevo contrato se haya publicado con una antelación mínima de cuatro meses.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "80.- La Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, establece en su artículo 44.1 que, serán susceptibles de recurso especial en materia de contratación:",
+            "options": [
+                {
+                    "text": "a) Actos referidos a contratos de obras cuyo valor estimado sea superior a tres millones de euros.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) Actos referidos a contratos de obras cuyo valor estimado sea inferior a dos millones de euros.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Actos referidos a contratos de obras cuyo valor estimado sea inferior a tres millones de euros.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "81.-Señala la respuesta correcta en relación con el Art. 145.2.4 de la Ley Ley 9/2017 de Contratos del Sector Público y en lo relativo a los contratos de servicios del Anexo IV, así como en los contratos que tengan por objeto prestaciones de carácter intelectual, para estos contratos:",
+            "options": [
+                {
+                    "text": "a)Los criterios relacionados con la calidad deberán representar, al menos, el 51 por ciento de la puntuación asignable en la valoración de las ofertas, sin perjuicio de lo dispuesto en el apartado 2.a) del artículo 146",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b)Los criterios relacionados con la calidad deberán representar, al menos, el 30 por ciento de la puntuación asignable en la valoración de las ofertas, sin perjuicio de lo dispuesto en el apartado 2.a) del artículo 146",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c)Los criterios relacionados con la calidad deberán representar, al menos, el 49 por ciento de la puntuación asignable en la valoración de las ofertas, sin perjuicio de lo dispuesto en el apartado 2.a) del artículo 146",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "82.- Señale la respuesta correcta. En relación con la devolución y cancelación de las garantías que se recoge en el Art. 111 de la Ley Ley 9/2017 de Contratos del Sector público y, en particular, para un contrato de Obras de valor estimado inferior a 1.000.000 de euros",
+            "options": [
+                {
+                    "text": "a) El plazo establecido para la devolución de la garantía se reducirá a seis meses",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) El plazo establecido para la devolución de la garantía será de un año",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) El plazo establecido para la devolución de la garantía se reducirá a nueve meses",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "83.- Señala la respuesta correcta El límite para subcontratación de conformidad con Artículo 215 de la Ley 9/2017",
+            "options": [
+                {
+                    "text": "a) El 50% del presupuesto de adjudicación del contrato",
+                    "isCorrect": false
+                },
+                {
+                    "text": "b) El 60% del presupuesto de adjudicación del contrato",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) No se establece límite alguno, pudiendo regularse la misma en los Pliegos del contrato",
+                    "isCorrect": true,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "84.- Señale la respuesta correcta. En relación con el Valor Estimado de los Contratos. Recogido en el Art. 101.13 de la Ley Ley 9/2017 de Contratos del Sector Público y en lo relativo a los acuerdos marco y para los sistemas dinámicos de adquisición el mismo será:",
+            "options": [
+                {
+                    "text": "a)El valor máximo estimado, incluido el Impuesto sobre el Valor Añadido, del conjunto de contratos previstos durante la duración total del acuerdo marco o del sistema dinámico de adquisición",
+                    "isCorrect": false
+                },
+                {
+                    "text": "b)El valor máximo estimado, excluido el Impuesto sobre el Valor Añadido, del conjunto de contratos previstos durante la duración total del acuerdo marco o del sistema dinámico de adquisición",
+                    "isCorrect": true,
+                    "hint": ""
+                },
+                {
+                    "text": "c)En los acuerdo marco y para los sistemas dinámicos de contratación el valor estimado se establecerá solamente para los contratos derivados que se vayan licitando de los mismos",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "85.-Señala la respuesta correcta. Cuando el único criterio para seleccionar al adjudicatario sea el precio, según establece el Artículo 158 de la Ley 9/2017 de Contratos del Sector público ",
+            "options": [
+                {
+                    "text": "a) La adjudicación deberá recaer en el plazo máximo de veinte días a contar desde el siguiente al de apertura de las proposiciones",
+                    "isCorrect": false
+                },
+                {
+                    "text": "b) La adjudicación deberá recaer en el plazo máximo de un mes a contar desde el siguiente al de apertura de las proposiciones que se ampliarán en diez días hábiles cuando sea necesario seguir los trámites a que se refiere el apartado 4 del artículo 149 de la presente Ley",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) La adjudicación deberá recaer en el plazo máximo de quince días a contar desde el siguiente al de apertura de las proposiciones, que se ampliarán en quince días hábiles cuando sea necesario seguir los trámites a que se refiere el apartado 4 del artículo 149 de la presente Ley",
+                    "isCorrect": true,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "86.- Señala la respuesta correcta. De conformidad con el Art. 118 de la Ley Ley 9/2017 de Contratos del Sector público, se consideran Contratos Menores",
+            "options": [
+                {
+                    "text": "a) Los contratos de valor estimado igual o inferior a 40.000 euros, cuando se trate de contratos de obras, 0 a 15.000 euros, cuando se trate de contratos de suministro o de servicios.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "b) Los contratos de valor estimado inferior a 40.000 euros, cuando se trate de contratos de obras, 0 a 15.000 euros, cuando se trate de contratos de suministro o de servicios.",
+                    "isCorrect": true,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Los contratos cuyo presupuesto de licitación sea igual o inferior a 40.000 euros, cuando se trate de contratos de obras, 0 a 15.000 euros, cuando se trate de contratos de suministro o de servicios.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "87.- Señale la respuesta Incorrecta. En base al Artículo 242 de la Ley 9/2017 de Contratos del Sector público cual de las respuestas siguientes no se incluye en las “no consideraciones de modificación del contrato de obras “",
+            "options": [
+                {
+                    "text": "a) El exceso de mediciones, entendiendo por tal, la variación que durante la correcta ejecución de la obra se produzca exclusivamente en el número de unidades realmente ejecutadas sobre las previstas en las mediciones del proyecto, siempre que en global no representen un incremento del gasto superior al 10 por ciento del precio del contrato inicial,",
+                    "isCorrect": false
+                },
+                {
+                    "text": "b) La inclusión de precios nuevos, fijados contradictoriamente por los procedimientos establecidos en esta Ley y en sus normas de desarrollo, siempre que no supongan incremento del precio global del contrato ni afecten a unidades de obra que en su conjunto exceda del 3 por ciento del presupuesta primitivo del mismo",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "C) El exceso de mediciones, entendiendo por tal, la variación que durante la correcta ejecución de la obra se produzca exclusivamente en el número de unidades realmente ejecutadas sobre las previstas en las mediciones del proyecto, siempre que en global no representen un incremento del gasto superior al 20 por ciento del precio del contrato inicial,",
+                    "isCorrect": true,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "88.-Señale la respuesta correcta- En un contrato de suministro, en el supuesto de Resolución por desistimiento antes de la iniciación del suministro o la suspensión de la iniciación del mismo por causa imputable a la Administración por plazo superior a cuatro meses a partir de la fecha señalada en el contrato para la entrega, de conformidad con Artículo 306 y 307 de la Ley 9/2017 de Contratos del Sector público, el contratista sólo tendrá derecho a:",
+            "options": [
+                {
+                    "text": "a)Una indemnización del 5 por ciento del precio de la adjudicación del contrato, IVA excluido",
+                    "isCorrect": false
+                },
+                {
+                    "text": "b)Una indemnización del 3 por ciento del precio de la adjudicación del contrato, IVA excluido",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c)Una indemnización del 3 por ciento del precio de la adjudicación del contrato, IVA incluido",
+                    "isCorrect": true,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "89.- Indique la respuesta incorrecta. Según recoge la disposición adicional segunda de la Ley 9/2017 de Contratos del Sector público y en relación con las Mesas de Contratación cuál de los siguientes afirmaciones no se recoge en la misma.",
+            "options": [
+                {
+                    "text": "a) En ningún caso podrá formar parte de las Mesas de contratación ni emitir informes de valoración de las ofertas, personal eventual.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "b) Podrá formar parte de las Mesas de contratación personal funcionario interino únicamente cuando no existan funcionarios de carrera suficientemente cualificados y así se acredite en el expediente",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "C) De las mesas de contratación solamente pueden formar parte personal funcionario y habilitados de carácter nacional",
+                    "isCorrect": true,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "90.- Elige la respuesta correcta. En relación a la publicidad de las subvenciones recogida en el Art.18 de la Ley General de Subvenciones",
+            "options": [
+                {
+                    "text": "a) La Base de Datos Nacional de Subvenciones operará como sistema nacional de publicidad de subvenciones.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) Será suficiente la publicación de las mismas en el perfil del contratante de la entidad o en la Plataforma de Contratación del Estado",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Se publicarán en el perfil del contratante y en el portal de transparencia",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "91.- Según el artículo 22.2 de la Ley 38/2003, de 17 de noviembre, General de Subvenciones, podrán concederse de forma directa:",
+            "options": [
+                {
+                    "text": "a) Excepcionalmente, las subvenciones en que se acrediten razones de interés público, social, económico o humanitario, u otras debidamente justificadas que dificulten su convocatoria pública.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) Las subvenciones por cuantía superior a la que se determine en la convocatoria.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Las subvenciones que no estén previstas nominativamente en los Presupuestos de las Entidades Locales.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "92.- Las fases del procedimiento de concesión de subvenciones en régimen de concurrencia competitiva conforme señala el Capítulo II del Título | de la Ley 38/2003, de 17 de noviembre, General de Subvenciones, son:",
+            "options": [
+                {
+                    "text": "a) Solicitud, iniciación, instrucción, resolución y notificación de la resolución.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "b) Iniciación, resolución, notificación de la resolución y concesión.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "C) Iniciación, instrucción,resolución notificación de la resolución y reformulación de las solicitudes.",
+                    "isCorrect": true,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "93.- El derecho de la Administración a reconocer o liquidar el reintegro de la subvención, según dispone el artículo 39 de la Ley 38/2003, de 17 de noviembre, General de Subvenciones:",
+            "options": [
+                {
+                    "text": "a) Prescribe a los cuatro años, computándose desde el momento en que venció el plazo temporal en que el beneficiario o entidad colaboradora debió mantener el cumplimiento o mantenimiento de las condiciones u obligaciones establecidas.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) Prescribe a los cuatro años, computándose una vez transcurridos tres meses desde el vencimiento del plazo para presentar la justificación por parte del beneficiario o entidad colaboradora,",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "C) Prescribe a los cinco años, computándose una vez transcurridos tres meses desde el vencimiento del plazo para presentar la justificación por parte del beneficiario o entidad colaboradora.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "94.- Conforme al Real Decreto 1372/1986 de 13 de junio por el que se aprueba el Reglamento de Bienes de las Entidades Locales, cual de estas afirmaciones es INCORRECTA:",
+            "options": [
+                {
+                    "text": "a) Los bienes comunales solo podrán pertenecer a los Municipios y a las Entidades locales menores.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "b) El patrimonio de las Entidades locales estará constituido por el conjunto de bienes, derechos y acciones que les pertenezcan.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "C) La incorporación al patrimonio de la Entidad local de los bienes desafectados no se entenderá efectuada hasta la recepción formal por el érgano competente de la Corporación, excepto cuando procedan de deslinde de dominio público.",
+                    "isCorrect": true,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "95.- Según el artículo 79 del Real Decreto 1372/1986 de 13 de junio por el que se aprueba el Reglamento de Bienes de las Entidades Locales:",
+            "options": [
+                {
+                    "text": "a) No podrá otorgarse concesión o licencia por tiempo indefinido, salvo casos excepcionales.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "b) El plazo de duración máximo de las concesiones será de noventa y nueve años.",
+                    "isCorrect": true,
+                    "hint": ""
+                },
+                {
+                    "text": "C) El plazo de duración mínimo de las concesiones será de diez años.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "96.- Según el articulo 121 del Real Decreto 1372/1986 de 13 de junio por el que se aprueba el Reglamento de Bienes de las Entidades Locales, la expropiación forzosa de fincas rústicas o urbanas, terrenos o edificios:",
+            "options": [
+                {
+                    "text": "a) Deberá respetar la vigencia de los arrendamientos y de los derechos personales previamente constituidos, salvo acuerdo entre las partes.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "b) No se contempla cuando tengan por objeto la realización de obras o el establecimiento de servicios públicos.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Producirá la extinción de los arrendamientos y de cualesquiera otros derechos personales relativos a la ocupación de las mismas.",
+                    "isCorrect": true,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "97.- Según el artículo 6 de la Ley 11/2018 de 21 de diciembre, de ordenación territorial y urbanistica sostenible de Extremadura, las clases de suelo son:",
+            "options": [
+                {
+                    "text": "a) Urbanizable, no urbanizable y rústico.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "b) Urbano, urbanizable y rústico.",
+                    "isCorrect": true,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Urbano, urbanizable y no urbanizable.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "98.- De conformidad con el artículo 173 de la Ley 11/2018 de 21 de diciembre, de ordenación territorial y urbanística sostenible de Extremadura, procede adoptar la medida de reposición de la realidad física alterada cuando:",
+            "options": [
+                {
+                    "text": "a) No se haya instado la legalización en el plazo de tres meses concedidos al efecto.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "b) No se haya instado la legalización en el plazo de un mes concedido al efecto.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) No se haya instado la legalización en el plazo de dos meses concedidos al efecto.",
+                    "isCorrect": true,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "99.- En particular, el ejercicio de la función inspectora comprende, según establece el artículo 181.3 de la Ley 11/2018 de 21 de diciembre, de ordenación territorial y urbanística sostenible de Extremadura (Señale la INCORRECTA):",
+            "options": [
+                {
+                    "text": "a) Asesorar, orientar e informar a la ciudadanía en materia de urbanismo.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "b) Adoptar las medidas cautelares y definitivas que se estimen convenientes.",
+                    "isCorrect": true,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Velar por el cumplimiento de la ordenación urbanística y territorial.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "100.- Según el artículo 183.3 de la Ley 11/2018 de 21 de diciembre, de ordenación territorial y urbanistica sostenible de Extremadura, son infracciones urbanísticas graves:",
+            "options": [
+                {
+                    "text": "a) Los movimientos de tierra que supongan alteración del paisaje, sin título habilitante.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) La ocupación de los inmuebles sin disponer de la primera licencia de ocupación o utilización cuando resulte legalmente preceptiva.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Cualquier tipo de actuación dirigida a impedir o dificultar la inspección urbanística.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "101.- Según la Constitución española:",
+            "options": [
+                {
+                    "text": "a) España se constituye en un Estado antisocial y no democrático de Derecho, que propugna como valores superiores de su ordenamiento jurídico la libertad, la justicia, la igualdad y el pluralismo político.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "b) La soberanía nacional reside en el Rey, del que emanan los poderes del Estado.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) La forma política del Estado español es la Monarquía parlamentaria.",
+                    "isCorrect": true,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "102.- El articulo 25.2 de la Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local indica que, el Municipio ejercerá en todo caso como competencias propias, en los términos de la legislación del Estado y de las Comunidades Autónomas, entre otras:",
+            "options": [
+                {
+                    "text": "a) Promoción y gestión de la vivienda de protección pública con criterios de sostenibilidad financiera ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) Medio ambiente urbano: protección contra la contaminación atmosférica en las zonas periurbanas municipales.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Protección de la sanidad y salud pública, en lo relativo a la organización, funcionamiento interno, coordinación y control de los centros, servicios y establecimientos sanitarios concertados municipales.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "103.- Atendiendo a lo dispuesto en el artículo 8 del Reglamento Orgánico de la Diputación Provincial de Badajoz (BOP N.* 179 de fecha 19/09/2019), las delegaciones especiales en cualquier Diputado/a relativas a un proyecto o asunto específico, incluye, entre otras la facultad de:",
+            "options": [
+                {
+                    "text": "a) Resolver mediante actos administrativos que afecten a tercero",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) No podrá incluir la facultad de resolver mediante actos administrativos que afecten a terceros.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) No se contempla en este caso la facultad de resolver.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "104.- Según la definición contenida en el artículo 97 del Real Decreto 2568/1986 de 28 de noviembre por el que se aprueba el Reglamento de Organización, Funcionamiento y Régimen Jurídico de las Entidades Locales, Dictamen:",
+            "options": [
+                {
+                    "text": "a) Es la propuesta sometida al Pleno tras el estudio del expediente por la Comisión Informativa.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) Es la propuesta sometida al Pleno relativa a un asunto incluido en el orden del dia.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Es la propuesta que se somete directamente a conocimiento del Pleno al amparo de lo prevenido en el artículo 91.4 del propio Reglamento.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "105.- En relación con el art.4 la Ley 8/2011 de Igualdad entre Mujeres y Hombres y contra la Violencia de Género en Extremadura",
+            "options": [
+                {
+                    "text": "a)Se entiende que cualquier tipo de trato desfavorable relacionado con el embarazo, la maternidad o la paternidad constituye discriminación directa por razón de sexo.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b)Se entiende que cualquier tipo de trato desfavorable relacionado con el embarazo, la maternidad o la paternidad constituye acoso por razán de sexo",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Se entiende que cualquier tipo de trato desfavorable relacionado con el embarazo, la maternidad o la paternidad constituye discriminación directa",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "106.- La constitución de un órgano colegiado en la Administración General del Estado y en sus Organismos públicos tiene como presupuesto indispensable la determinación en su norma de creación o en el convenio con otras Administraciones Públicas por el que dicho órgano se cree, de los siguientes extremos:",
+            "options": [
+                {
+                    "text": "a) Sueldo de los integrantes.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "b) La dotación de los créditos necesarios, en su caso, para su funcionamiento.",
+                    "isCorrect": true,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Su integración administrativa o dependencia funcional",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "107.- Con relación a la cuantía y estructura de las retribuciones complementarias de los/as funcionarios/as, el artículo 24 del TREBEP, dispone que se establecerán por:",
+            "options": [
+                {
+                    "text": "a) La Ley de Presupuestos Generales del Estado.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "b) La Ley de Presupuestos de la Comunidad Autónoma correspondiente",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Las correspondientes leyes de cada Administración Pública.",
+                    "isCorrect": true,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "108.- La Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, establece en su artículo 34.1 que, en los contratos del sector público podrán incluirse cualesquiera pactos, cláusulas y condiciones, siempre que:",
+            "options": [
+                {
+                    "text": "a) No sean contrarios al interés público, al ordenamiento jurídico y a los principios de buena administración.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) No sean contrarios a la libre competencia, al objeto del contrato, y a los principios de buena administración.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) No sean contrarios a los fines institucionales, al ordenamiento jurídico y a los principios de buena administración.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "109. Cuál de las siguientes condiciones que han de cumplirse para la utilización del procedimiento abierto simplificado no es correcta de acuerdo con lo recogido en el Art.159 la Ley 9/2017 de Contratos del Sector público",
+            "options": [
+                {
+                    "text": "a) Que entre los criterios de adjudicación previstos en el pliego no haya ninguno evaluable mediante juicio de valor o, de haberlos, su ponderación no supere el quince por ciento del total, salvo en el caso de que el contrato tenga por objeto prestaciones de carácter intelectual, como los servicios de ingeniería y arquitectura, en que su ponderación no podrá superar el cuarenta y cinco por ciento del total",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b)El anuncio de licitación del contrato únicamente precisará de publicación en el perfil de contratante del órgano de contratación",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "C)El plazo para la presentación de proposiciones no podrá ser inferior a quince días a contar desde el siguiente a la publicación en el perfil de contratante del anuncio de licitación. En los contratos de obras el plazo será como mínimo de veinte días",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "110.- La competencia para otorgar la calificación rústica corresponde a la Junta de Extremadura según el artículo 69.4 de la Ley 11/2018 de 21 de diciembre, de ordenación territorial y urbanistica sostenible de Extremadura:",
+            "options": [
+                {
+                    "text": "a) Cuando el uso esté regulado en el planeamiento vigente.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "b) En ausencia de planeamiento.",
+                    "isCorrect": true,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Cuando un municipio sea núcleo de relevancia territorial. ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        }
+    ]
+}
